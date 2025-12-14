@@ -1,0 +1,324 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:医学/学科/临床/内科/呼吸内科  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/内科/心血管内科  ",
+      "color": {
+        "a": 1,
+        "rgb": 14423100
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/内科/消化内科  ",
+      "color": {
+        "a": 1,
+        "rgb": 16729344
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/内科/肾内科  ",
+      "color": {
+        "a": 1,
+        "rgb": 16737095
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/内科/血液内科  ",
+      "color": {
+        "a": 1,
+        "rgb": 16744272
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/内科/内分泌科  ",
+      "color": {
+        "a": 1,
+        "rgb": 15761536
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/内科/风湿免疫科  ",
+      "color": {
+        "a": 1,
+        "rgb": 16752762
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/外科/普通外科  ",
+      "color": {
+        "a": 1,
+        "rgb": 32768
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/外科/泌尿外科  ",
+      "color": {
+        "a": 1,
+        "rgb": 3329330
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/外科/骨科  ",
+      "color": {
+        "a": 1,
+        "rgb": 65280
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/外科/胸外科  ",
+      "color": {
+        "a": 1,
+        "rgb": 8190976
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/外科/神经外科  ",
+      "color": {
+        "a": 1,
+        "rgb": 65407
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/外科/心血管外科  ",
+      "color": {
+        "a": 1,
+        "rgb": 11403055
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/外科/外科总论  ",
+      "color": {
+        "a": 1,
+        "rgb": 10025880
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/专科/精神  ",
+      "color": {
+        "a": 1,
+        "rgb": 255
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/专科/神经  ",
+      "color": {
+        "a": 1,
+        "rgb": 2003199
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/专科/妇产  ",
+      "color": {
+        "a": 1,
+        "rgb": 49151
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/专科/儿科  ",
+      "color": {
+        "a": 1,
+        "rgb": 52945
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/专科/肿瘤  ",
+      "color": {
+        "a": 1,
+        "rgb": 4256976
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/专科/感染  ",
+      "color": {
+        "a": 1,
+        "rgb": 65535
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/专科/眼科  ",
+      "color": {
+        "a": 1,
+        "rgb": 8900346
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/专科/耳鼻咽喉 ",
+      "color": {
+        "a": 1,
+        "rgb": 8388564
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/专科/皮肤",
+      "color": {
+        "a": 1,
+        "rgb": 11393254
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/平台/急诊 ",
+      "color": {
+        "a": 1,
+        "rgb": 8388736
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/平台/全科  ",
+      "color": {
+        "a": 1,
+        "rgb": 9055202
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/平台/老年  ",
+      "color": {
+        "a": 1,
+        "rgb": 8087790
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/平台/麻醉  ",
+      "color": {
+        "a": 1,
+        "rgb": 15631086
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/医技/影像",
+      "color": {
+        "a": 1,
+        "rgb": 16716947
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/医技/检验  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711935
+      }
+    },
+    {
+      "query": "path:医学/学科/临床/医技/内镜  ",
+      "color": {
+        "a": 1,
+        "rgb": 13047173
+      }
+    },
+    {
+      "query": "path:医学/学科/基础/解剖  ",
+      "color": {
+        "a": 1,
+        "rgb": 14211840
+      }
+    },
+    {
+      "query": "path:医学/学科/基础/生医  ",
+      "color": {
+        "a": 1,
+        "rgb": 14329120
+      }
+    },
+    {
+      "query": "path:医学/学科/基础/病原  ",
+      "color": {
+        "a": 1,
+        "rgb": 15787660
+      }
+    },
+    {
+      "query": "path:医学/学科/基础/药理 ",
+      "color": {
+        "a": 1,
+        "rgb": 12433259
+      }
+    },
+    {
+      "query": "path:医学/学科/基础/心理  ",
+      "color": {
+        "a": 1,
+        "rgb": 15657130
+      }
+    },
+    {
+      "query": "path:医学/学科/预防/卫生  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395026
+      }
+    },
+    {
+      "query": "path:医学/学科/预防/流病  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395026
+      }
+    },
+    {
+      "query": "path:医学/学科/预防/医统 ",
+      "color": {
+        "a": 1,
+        "rgb": 5395026
+      }
+    },
+    {
+      "query": "path:医学/学科/医文/医伦 ",
+      "color": {
+        "a": 1,
+        "rgb": 5395026
+      }
+    },
+    {
+      "query": "path:医学/学科/医文/卫生法 ",
+      "color": {
+        "a": 1,
+        "rgb": 5395026
+      }
+    },
+    {
+      "query": "path:医学/学科/医文/医英 ",
+      "color": {
+        "a": 1,
+        "rgb": 5395026
+      }
+    },
+    {
+      "query": "path:医学/学科/口腔 ",
+      "color": {
+        "a": 1,
+        "rgb": 5395026
+      }
+    },
+    {
+      "query": "path:医学/学科/中医",
+      "color": {
+        "a": 1,
+        "rgb": 5395026
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 3,
+  "nodeSizeMultiplier": 1.88019750519751,
+  "lineSizeMultiplier": 1.06522869022869,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.03992374061069059,
+  "close": true
+}

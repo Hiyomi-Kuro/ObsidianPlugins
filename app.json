@@ -1,0 +1,11 @@
+{
+  "trashOption": "none",
+  "promptDelete": true,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "showUnsupportedFiles": true,
+  "mobilePullAction": "obsidian-markmind:Toggle to markdown or mindmap",
+  "attachmentFolderPath": "0Pictures"
+}

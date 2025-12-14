@@ -1,0 +1,302 @@
+{
+  "main": {
+    "id": "beceb1f2fa413d7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "04ddb39208c3ab8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dc652f2106053b3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "a75aef41540176d3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "551b89b42e94bb6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/胖子RWD/胖子RWD-Exploratory Data Analysis (EDA).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "胖子RWD-Exploratory Data Analysis (EDA)"
+            }
+          },
+          {
+            "id": "603c0e7929102372",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "251215 0015.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "251215 0015"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c5ddfba60f2b29e",
+    "type": "split",
+    "children": [
+      {
+        "id": "07acac3115d8fdff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d808fac92149a74",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e435f92b7e1bd215",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "血管炎",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "953d8c7701002abd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 337.5
+  },
+  "right": {
+    "id": "81efec2b90ba9194",
+    "type": "split",
+    "children": [
+      {
+        "id": "be349bec7f75a6e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4ea668886d3eafa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "78a0aea67898241a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "435b445d131ad516",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "827b6591210ec3d9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "bf0f75c306b005ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "251209 0100.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "251209 0100 的反向链接列表"
+            }
+          },
+          {
+            "id": "98704c77e207a043",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "251110 0045.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "251110 0045 的出链列表"
+            }
+          },
+          {
+            "id": "ada89311d0acbf42",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:复习卡片": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "827b6591210ec3d9",
+  "lastOpenFiles": [
+    "sync.ffs_lock",
+    "Clippings/胖子RWD/胖子RWD-Exploratory Data Analysis (EDA).md",
+    "Clippings/胖子RWD/胖子RWD-MatchThem：多重插补后的匹配与加权.md",
+    "Clippings/胖子RWD/胖子RWD.md",
+    "Clippings/任务11-19.md",
+    "Clippings/Multivariate Imputation by Chained Equations.md",
+    "医学/学科/临床/内科/内分泌科/激素异常/机制/激素增多/异位激素分泌综合征(副肿瘤综合征)/异位抗利尿激素综合征/内分泌科-异位抗利尿激素综合征.md",
+    "医学/学科/临床/内科/内分泌科/激素异常/机制/激素增多/异位激素分泌综合征(副肿瘤综合征)/异位 ACTH 综合征/内分泌科-异位 ACTH 综合征.md",
+    "医学/学科/临床/内科/内分泌科/激素异常/机制/激素增多/异位激素分泌综合征(副肿瘤综合征)/内分泌科-异位激素分泌综合征(副肿瘤综合征).md",
+    "医学/学科/临床/内科/内分泌科/激素异常/机制/激素增多/异位激素分泌综合征(副肿瘤综合征)/异位抗利尿激素综合征",
+    "医学/学科/临床/内科/内分泌科/激素异常/机制/激素增多/异位激素分泌综合征(副肿瘤综合征)/异位 ACTH 综合征",
+    "医学/学科/临床/内科/内分泌科/激素异常/机制/激素增多/异位激素分泌综合征(副肿瘤综合征)",
+    "医学/学科/临床/内科/内分泌科/激素异常/机制/激素增多/内分泌科-激素增多.md",
+    "医学/学科/临床/内科/内分泌科/激素异常/机制/激素抵抗/内分泌科-激素抵抗.md",
+    "医学/学科/临床/内科/内分泌科/激素异常/机制/激素减少/内分泌科-激素减少.md",
+    "医学/学科/临床/内科/内分泌科/激素异常/机制/激素增多",
+    "医学/学科/临床/内科/内分泌科/激素异常/机制/激素抵抗",
+    "医学/学科/临床/内科/内分泌科/激素异常/机制/激素减少",
+    "医学/学科/临床/内科/内分泌科/激素异常/机制",
+    "医学/学科/临床/外科/普通外科/腹外科/腹外科总论/肠梗阻/麻痹性肠梗阻/题目/腹外科-麻痹性肠梗阻-题目.md",
+    "医学/学科/临床/外科/普通外科/腹外科/腹外科总论/肠梗阻/麻痹性肠梗阻/题目",
+    "医学/学科/临床/外科/普通外科/腹外科/腹外科总论/肠梗阻/麻痹性肠梗阻/腹外科-麻痹性肠梗阻.md",
+    "医学/学科/临床/外科/普通外科/腹外科/腹外科总论/肠梗阻/麻痹性肠梗阻",
+    "医学/学科/临床/外科/普通外科/腹外科/腹外科总论/肠梗阻/机械性肠梗阻/题目/腹外科-机械性肠梗阻-题目.md",
+    "医学/学科/临床/外科/普通外科/腹外科/腹外科总论/肠梗阻/机械性肠梗阻/题目",
+    "医学/学科/临床/外科/普通外科/腹外科/腹外科总论/肠梗阻/机械性肠梗阻/腹外科-机械性肠梗阻.md",
+    "医学/学科/临床/内科/肾内科/肾脏自身免疫病/肾内科-肾脏自身免疫病.md",
+    "医学/学科/临床/专科/感染/传染/病原性传染病/细菌性传染病/结核病/消化系统结核/肠结核/题目/传染-肠结核-题目.md",
+    "251215 0015.md",
+    "251214 1255.md",
+    "医学/学科/基础/解剖/病理/消化系统病理/消化道病理/消化道溃疡/病理-消化道溃疡.md",
+    "医学/学科/临床/外科/普通外科/腹外科/胃肠外科/胃外科/胃肿瘤/胃外科-胃肿瘤.md",
+    "医学/学科/临床/外科/普通外科/腹外科/胃肠外科/胃外科/胃肿瘤/胃外科-胃泌素瘤(卓-艾综合征).md",
+    "医学/学科/临床/内科/消化内科/消化道内科/肠内科/炎症性肠病/克罗恩病/题目/肠内科-克罗恩病-题目.md",
+    "医学/学科/临床/外科/普通外科/腹外科/胃肠外科/胃外科/胃肿瘤/胃肠道间质瘤/胃外科-胃肠道间质瘤.md",
+    "医学/学科/临床/外科/普通外科/腹外科/胃肠外科/胃外科/胃肿瘤/胃良性肿瘤/胃外科-胃良性肿瘤.md",
+    "医学/学科/临床/专科/妇产/妇科/生殖内分泌疾病/闭经/原发性闭经诊断步骤.canvas",
+    "0Pictures/Pasted image 20251207140811.png",
+    "医学/学科/临床/外科/普通外科/腹外科/肝胆胰脾外科/胆外科/未命名.canvas",
+    "0Pictures/ECG demonstrating atrial fibrillation. No clear P waves are seen, and the ventricular response is irregular.png",
+    "0Pictures/Pasted image 20251202230715.png",
+    "医学/学科/临床/内科/心血管内科/心内科/心脏功能病变/心力衰竭/慢性心力衰竭/图片/未命名.canvas",
+    "0Pictures/Pasted image 20251120234822.png",
+    "0Pictures/Pasted image 20251120234752.png",
+    "0Pictures/Pasted image 20251120234519.png",
+    "0Pictures/Pasted image 20251120234434.png",
+    "0Pictures/Pasted image 20251120233950.png",
+    "0Pictures/Pasted image 20251120233940.png",
+    "0Pictures/Pasted image 20251120233732.png",
+    "医学/学科/临床/专科/肿瘤/胸部恶性肿瘤/支气管肺癌/未命名.canvas",
+    "医学/学科/临床/外科/心血管外科/血管外科/未命名.canvas",
+    "医学/学科/临床/内科/心血管内科/血管内科/高血压/未命名.canvas"
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "07a390c9f3ef0fed",
+    "type": "split",
+    "children": [
+      {
+        "id": "60b51631ba572c14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f54462a8a8c23c2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "a6091d0bb065dee0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb34fde77c9db19a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1dbdf07fcc597e4e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "a8875bd6c3681956",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "93fb07b380c9f594",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "ed473da9d4636605",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "添加笔记属性"
+        }
+      },
+      {
+        "id": "8d8cd2b07a10f4f7",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "19c0a040c1195643",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b935e2cace30e086",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "医学/学科/临床/内科/呼吸内科/胸膜疾病/胸腔积液(胸水)/呼吸内科-胸腔积液(胸水).md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "cb84ab2d152d8b6b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "8fc8d846c6009e20",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Clippings/Chapter 18 Apriori and Post-Hoc Comparisons  Introduction to Statistics and Data Analysis.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      },
+      {
+        "id": "c57f7bc6b02a6037",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "calendar"
+        }
+      },
+      {
+        "id": "bf4b0e7e298cbac2",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "advanced-tables-toolbar"
+        }
+      },
+      {
+        "id": "86b1d719d16675a9",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "笔记复习序列"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-spaced-repetition:复习卡片": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "86b1d719d16675a9",
+  "lastOpenFiles": [
+    "医学/学科/临床/内科/呼吸内科/呼吸内科总论/呼吸内科-呼吸内科总论.md",
+    "医学/学科/临床/内科/呼吸内科/内科-呼吸内科.md",
+    "医学/学科/临床/内科/内分泌科/激素异常/靶器官激素异常/甲状腺素异常/甲状腺毒症/老年性甲状腺功能亢进症(淡漠型甲亢 无力甲亢型 隐蔽型甲亢)/内分泌科-老年性甲状腺功能亢进症(淡漠型甲亢 无力甲亢型 隐蔽型甲亢).md",
+    "医学/学科/临床/内科/内分泌科/激素异常/靶器官激素异常/甲状腺素异常/甲状腺毒症/甲状腺危象(甲亢危象)/内分泌科-甲状腺危象(甲亢危象).md",
+    "医学/学科/临床/专科/耳鼻咽喉/咽科/咽部炎症/腺样体疾病/腺样体肥大/咽科-腺样体肥大.md",
+    "医学/学科/临床/内科/呼吸内科/胸膜疾病/胸腔积液(胸水)/呼吸内科-胸腔积液(胸水).md",
+    "251024 1900.md"
+  ]
+}
