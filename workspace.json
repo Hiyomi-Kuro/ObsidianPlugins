@@ -20,45 +20,65 @@
             }
           },
           {
-            "id": "a75aef41540176d3",
+            "id": "caf5e37e42a564d4",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Obsidian"
             }
           },
           {
-            "id": "7ad46eb02bdf657a",
+            "id": "998fa3216cb71d0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/AOCC 2026.md",
+                "file": "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/妊娠期高血压疾病/妊娠合并慢性高血压/产科-妊娠合并慢性高血压.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AOCC 2026"
+              "title": "产科-妊娠合并慢性高血压"
             }
           },
           {
-            "id": "b5342f817e9b05f8",
+            "id": "ee6fa89f5b5dafdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "251217 0000.md",
+                "file": "医学/学科/临床/专科/妇产/妇科/妇科总论/妇科症状/下腹疼痛/妇科-下腹疼痛.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "251217 0000"
+              "title": "妇科-下腹疼痛"
+            }
+          },
+          {
+            "id": "f95a6d1b34fa4f06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "260123 0035.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "260123 0035"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -90,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "血管炎",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -160,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "251217 0000.md",
-                "followCursor": true,
+                "file": "260123 0035.md",
+                "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "251217 0000 的大纲"
+              "title": "260123 0035 的大纲"
             }
           },
           {
@@ -185,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "251209 0100.md",
+                "file": "260123 0035.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +215,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "251209 0100 的反向链接列表"
+              "title": "260123 0035 的反向链接列表"
             }
           },
           {
@@ -204,12 +224,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "251110 0045.md",
+                "file": "医学/学科/临床/内科/消化内科/消化道内科/肠内科/炎症性肠病/克罗恩病/肠内科-克罗恩病.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "251110 0045 的出链列表"
+              "title": "肠内科-克罗恩病 的出链列表"
             }
           },
           {
@@ -221,6 +241,18 @@
               "icon": "SpacedRepIcon",
               "title": "笔记复习序列"
             }
+          },
+          {
+            "id": "3f67e1972b458250",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "260102 2325.md"
+              },
+              "icon": "lucide-info",
+              "title": "260102 2325的笔记属性"
+            }
           }
         ],
         "currentTab": 3
@@ -231,7 +263,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -247,55 +279,55 @@
   },
   "active": "827b6591210ec3d9",
   "lastOpenFiles": [
-    "Clippings/事后分析/UPA 单药 回顾/An Analysis of the Effectiveness and Safety of Upadacitinib in the Treatment of Inflammatory Bowel Disease A Multicenter Real-World Study.md",
-    "Clippings/Real‐World Comparative Effectiveness and Safety of Filgotinib and Upadacitinib for Ulcerative Colitis A Multicentre Cohort Study.md",
-    "Clippings/Real‐World Effectiveness and Safety of Mirikizumab Induction Therapy in Patients With Ulcerative Colitis A Multicentre Retrospective Observational Study - PMC.md",
-    "Clippings/事后分析/VDZ + 5-ASA/Journal of Crohns & Colitis-Impact of Concomitant 5-Aminosalicylic Acid Therapy on Vedolizumab Efficacy and Safety in Inflammatory Bowel Disease Post Hoc Analyses of Clinical Trial Data.md",
-    "Clippings/Visualizations for mice with ggplot2.md",
-    "0Pictures/Pasted image 20251216172108.png",
-    "0Pictures/Pasted image 20251216171854.png",
-    "Clippings/AOCC 2026.md",
-    "251217 0000.md",
-    "251216 1455.md",
-    "医学/学科/临床/内科/消化内科/消化内科总论/消化系统诊断/消化系统辅助检查/粪便检测/粪便隐血试验/题目/消化内科-粪便隐血试验-题目.md",
-    "医学/学科/临床/内科/消化内科/消化内科总论/消化系统诊断/消化系统辅助检查/粪便检测/粪便隐血试验/题目",
-    "医学/学科/临床/内科/消化内科/消化内科总论/消化系统诊断/消化系统临床表现/消化系统症状/呕血/题目/消化内科-呕血-题目.md",
-    "医学/学科/临床/内科/消化内科/消化内科总论/消化系统诊断/消化系统临床表现/消化系统症状/呕血/题目",
-    "医学/学科/临床/专科/感染/感染性肠炎/感染-感染性肠炎.md",
-    "医学/学科/临床/专科/感染/感染性肠炎",
-    "医学/学科/临床/外科/普通外科/腹外科/腹外科总论/门静脉高压症/题目/腹外科-门静脉高压症-题目.md",
-    "医学/学科/临床/外科/普通外科/腹外科/腹外科总论/门静脉高压症/题目",
-    "医学/学科/临床/外科/普通外科/腹外科/腹外科总论/消化道大出血/题目/腹外科-消化道大出血-题目.md",
-    "医学/学科/临床/外科/普通外科/腹外科/腹外科总论/消化道大出血/题目",
-    "医学/学科/临床/外科/普通外科/腹外科/腹外科总论/消化道大出血/上消化道大出血/题目/腹外科-上消化道大出血-题目.md",
-    "医学/学科/临床/外科/普通外科/腹外科/腹外科总论/消化道大出血/上消化道大出血/题目",
-    "医学/学科/临床/外科/普通外科/腹外科/胃肠外科/胃外科/胃十二指肠溃疡并发症/胃十二指肠溃疡大出血/题目/胃外科-胃十二指肠溃疡大出血-题目.md",
-    "医学/学科/临床/外科/普通外科/腹外科/胃肠外科/胃外科/胃十二指肠溃疡并发症/胃十二指肠溃疡大出血/题目",
-    "医学/学科/临床/外科/普通外科/腹外科/腹外科总论/门静脉高压症/食管-胃底曲张静脉破裂出血/题目/腹外科-食管-胃底曲张静脉破裂出血-题目.md",
-    "医学/学科/临床/外科/普通外科/腹外科/腹外科总论/门静脉高压症/食管-胃底曲张静脉破裂出血/腹外科-食管-胃底曲张静脉破裂出血.md",
-    "医学/学科/临床/外科/普通外科/腹外科/腹外科总论/门静脉高压症/食管-胃底曲张静脉破裂出血/题目",
-    "医学/学科/临床/外科/普通外科/腹外科/腹外科总论/门静脉高压症/食管-胃底曲张静脉破裂出血",
-    "医学/学科/临床/外科/胸外科/食管外科/食管贲门黏膜撕裂(Mallory-Weiss综合征)/题目/食管外科-食管贲门黏膜撕裂(Mallory-Weiss综合征)-题目.md",
-    "医学/学科/临床/外科/胸外科/食管外科/食管贲门黏膜撕裂(Mallory-Weiss综合征)/食管外科-食管贲门黏膜撕裂(Mallory-Weiss综合征).md",
-    "医学/学科/临床/外科/胸外科/食管外科/食管贲门黏膜撕裂(Mallory-Weiss综合征)/题目",
-    "医学/学科/临床/专科/儿科/小儿内科/消化儿科/消化道儿科/肠道疾病/腹泻病/指南/卫健委-儿童急性感染性腹泻病诊疗规范 2020年版.md",
-    "251216 0110.md",
-    "医学/学科/临床/内科/消化内科/消化道内科/肠内科/炎症性肠病/溃疡性结肠炎/肠内科-溃疡性结肠炎.md",
-    "医学/学科/临床/内科/消化内科/消化道内科/肠内科/炎症性肠病/溃疡性结肠炎/题目/肠内科-溃疡性结肠炎-题目.md",
-    "医学/学科/临床/内科/消化内科/消化道内科/肠内科/炎症性肠病/溃疡性结肠炎/指南/中华炎性肠病杂志-中国溃疡性结肠炎诊治指南2023 年·西安.md",
-    "Clippings/胖子RWD/胖子RWD-缺失数据分析处理.md",
-    "Clippings/胖子RWD/MatchThem：多重插补后的匹配与加权/胖子RWD-MatchThem：多重插补后的匹配与加权.md",
+    "Clippings/RWS/RWS 两药比较/TOF UST 25/Real-world Comparison of the Effectiveness of Tofacitinib and Ustekinumab in Patients With Ulcerative Colitis：The TORUS Study.md",
+    "0Pictures/Pasted image 20260123001822.png",
+    "Clippings/RWS/RWS 两药比较/TOF FIL/Comparative effectiveness and safety of tofacitinib and filgotinib in patients with ulcerative colitis：A propensity score-weighted cohort study.md",
+    "Clippings/RWS/RWS 两药比较/TOF UST 25",
+    "Clippings/RWS/RWS 两药比较/UPA TOF 24/Comparative Effectiveness of Upadacitinib and Tofacitinib in Ulcerative Colitis：A US Propensity-Matched Cohort Study.md",
+    "Clippings/RWS/RWS 两药比较/UPA TOF 24",
+    "260123 0035.md",
+    "260122 1445.md",
+    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/妊娠期高血压疾病/妊娠合并慢性高血压/产科-妊娠合并慢性高血压.md",
+    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/妊娠期高血压疾病/子痫前期-子痫/产科-子痫前期-子痫.md",
+    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/妊娠期高血压疾病/子痫前期-子痫/HELLP综合征/产科-HELLP综合征.md",
+    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/妊娠期高血压疾病/子痫前期-子痫/HELLP综合征",
+    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/妊娠期高血压疾病/子痫前期-子痫/子痫前期/产科-子痫前期.md",
+    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/妊娠期高血压疾病/子痫前期-子痫/子痫前期",
+    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/妊娠期高血压疾病/子痫前期-子痫/子痫/产科-子痫.md",
+    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/妊娠期高血压疾病/子痫前期-子痫/子痫",
+    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/妊娠期高血压疾病/子痫前期-子痫/慢性高血压并发子痫前期/产科-慢性高血压并发子痫前期.md",
+    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/妊娠期高血压疾病/子痫前期-子痫/慢性高血压并发子痫前期",
+    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/妊娠期高血压疾病/产科-妊娠期高血压疾病.md",
+    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/妊娠期高血压疾病/产科-妊娠期高血压疾病-export.xmind",
+    "医学/学科/临床/专科/妇产/妇科/妇科总论/妇科症状/下腹疼痛/妇科-下腹疼痛.md",
+    "医学/学科/临床/内科/心血管内科/血管内科/高血压/原发性高血压(高血压病)/血管内科-原发性高血压(高血压病).md",
+    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/异位妊娠(宫外孕)/产科-异位妊娠(宫外孕).md",
+    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/异位妊娠(宫外孕)/产科-异位妊娠(宫外孕)-export.xmind",
+    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/异位妊娠(宫外孕)/输卵管妊娠/产科-输卵管妊娠.md",
+    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/异位妊娠(宫外孕)/输卵管妊娠/产科-输卵管妊娠-export.xmind",
+    "医学/学科/临床/专科/妇产/妇科/妇科总论/妇科症状/妇科-下腹疼痛.md",
+    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/异位妊娠(宫外孕)/输卵管妊娠",
+    "医学/学科/临床/内科/心血管内科/血管内科/动脉粥样硬化/血管内科-动脉粥样硬化.md",
+    "医学/学科/临床/内科/心血管内科/血管内科/动脉粥样硬化/抗动脉粥样硬化药/血管内科-抗动脉粥样硬化药.md",
+    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/自然流产/产科-自然流产.md",
+    "医学/学科/临床/内科/消化内科/消化内科总论/消化系统诊断/消化系统临床表现/消化系统症状/腹腔积液(腹水)/消化内科-腹腔积液(腹水).md",
+    "医学/学科/临床/内科/内分泌科/代谢/水电解质酸碱代谢紊乱/水电解质代谢紊乱/水钠代谢紊乱/水肿(浆膜腔积液)/代谢-水肿(浆膜腔积液).md",
+    "医学/学科/临床/内科/呼吸内科/胸膜疾病/胸腔积液(胸水)/呼吸内科-胸腔积液(胸水).md",
+    "医学/学科/临床/内科/心血管内科/心内科/心内科总论/心内科诊断/心内科临床表现/心源性水肿/心内科-心源性水肿.md",
+    "医学/学科/临床/内科/内分泌科/内分泌科总论/内分泌性水肿/内分泌科-内分泌性水肿.md",
+    "0Pictures/Pasted image 20260116121729.png",
+    "0Pictures/Pasted image 20260112201639.png",
+    "0Pictures/Pasted image 20260112201622.png",
+    "0Pictures/Pasted image 20260112201555.png",
+    "0Pictures/Pasted image 20260112201543.png",
+    "0Pictures/Pasted image 20260112201524.png",
+    "0Pictures/Pasted image 20260112201503.png",
+    "未命名.canvas",
+    "0Pictures/Pasted image 20260110161603.png",
+    "0Pictures/Pasted image 20260105232900.png",
     "医学/学科/临床/专科/妇产/妇科/生殖内分泌疾病/闭经/原发性闭经诊断步骤.canvas",
-    "0Pictures/Pasted image 20251207140811.png",
     "医学/学科/临床/外科/普通外科/腹外科/肝胆胰脾外科/胆外科/未命名.canvas",
-    "0Pictures/ECG demonstrating atrial fibrillation. No clear P waves are seen, and the ventricular response is irregular.png",
-    "0Pictures/Pasted image 20251202230715.png",
     "医学/学科/临床/内科/心血管内科/心内科/心脏功能病变/心力衰竭/慢性心力衰竭/图片/未命名.canvas",
-    "0Pictures/Pasted image 20251120234822.png",
-    "0Pictures/Pasted image 20251120234752.png",
-    "0Pictures/Pasted image 20251120234519.png",
-    "0Pictures/Pasted image 20251120234434.png",
-    "0Pictures/Pasted image 20251120233950.png",
     "医学/学科/临床/专科/肿瘤/胸部恶性肿瘤/支气管肺癌/未命名.canvas",
     "医学/学科/临床/外科/心血管外科/血管外科/未命名.canvas",
     "医学/学科/临床/内科/心血管内科/血管内科/高血压/未命名.canvas"
