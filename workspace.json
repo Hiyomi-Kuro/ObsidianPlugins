@@ -139,16 +139,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/RWS/UPA UC/GPT/260324/GPT-260324-1.md",
+                "file": "Clippings/RWS/UPA UC/GPT/260324/GPT-260324-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GPT-260324-1"
+              "title": "GPT-260324-2"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -250,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/JCC/JCC-Manuscript Preparation.md",
+                "file": "Clippings/RWS/UPA UC/GPT/260324/GPT-260324-2.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "JCC-Manuscript Preparation 的大纲"
+              "title": "GPT-260324-2 的大纲"
             }
           },
           {
@@ -347,11 +347,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "48ac3b10a7c67215",
+  "active": "021323c079f21d14",
   "lastOpenFiles": [
     "Clippings/RWS/UPA UC/GPT/260324/GPT-260324-1.md",
-    "Clippings/RWS/UPA UC/GPT/260324",
+    "Clippings/RWS/UPA UC/GPT/260324/GPT-260324-2.md",
     "Clippings/JCC/JCC-Manuscript Preparation.md",
+    "Clippings/RWS/UPA UC/GPT/260324",
     "Clippings/RWS/替换匹配法/25 8.7 UST VDZ IFX CD/The effectiveness of second- and-third-line biologics in perianal Crohn’s disease.md",
     "0Pictures/Pasted image 20260324140841.png",
     "Clippings/JCC/JCC.md",
@@ -380,7 +381,6 @@
     "医学/学科/临床/内科/心血管内科/心内科/心脏功能病变/心力衰竭/抗心衰药/正性肌力药/非苷类正性肌力药/心内科-非苷类正性肌力药.md",
     "医学/学科/临床/内科/心血管内科/心内科/心脏功能病变/心律失常/抗心律失常药/伊伐布雷定/心内科-伊伐布雷定.md",
     "医学/学科/临床/内科/心血管内科/心内科/心脏功能病变/心力衰竭/抗心衰药/题目/心内科-抗心衰药-题目.md",
-    "医学/学科/临床/内科/心血管内科/心血管内科总论/考研题目/心血管内科-考研题目.md",
     "医学/学科/临床/内科/心血管内科/心内科/心脏功能病变/心力衰竭/抗心衰药/题目",
     "医学/学科/临床/内科/心血管内科/血管内科/高血压/抗高血压药(降血压药)/血管平滑肌扩张药/硝普钠/题目",
     "医学/学科/临床/内科/心血管内科/心血管内科总论/考研题目",
