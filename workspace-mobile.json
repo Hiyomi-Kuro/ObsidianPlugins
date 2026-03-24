@@ -23,14 +23,10 @@
             "id": "a6091d0bb065dee0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "医学/学科/临床/内科/消化内科/消化道内科/肠内科/炎症性肠病/克罗恩病/肠内科-克罗恩病.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "肠内科-克罗恩病"
+              "title": "新标签页"
             }
           }
         ],
@@ -187,7 +183,7 @@
         }
       },
       {
-        "id": "86b1d719d16675a9",
+        "id": "b02bc8f86e12d6ba",
         "type": "leaf",
         "state": {
           "type": "review-queue-list-view",
@@ -215,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6091d0bb065dee0",
+  "active": "b02bc8f86e12d6ba",
   "lastOpenFiles": [
     "医学/学科/临床/内科/呼吸内科/呼吸内科总论/呼吸内科-呼吸内科总论.md",
     "医学/学科/临床/内科/呼吸内科/内科-呼吸内科.md",

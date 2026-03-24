@@ -10,17 +10,15 @@
           {
             "id": "8dc652f2106053b3",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "关系图谱"
             }
           },
           {
-            "id": "caf5e37e42a564d4",
+            "id": "6f8aee8831527648",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -36,49 +34,89 @@
             }
           },
           {
-            "id": "998fa3216cb71d0f",
+            "id": "8fdeef14c79e2132",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/妊娠期高血压疾病/妊娠合并慢性高血压/产科-妊娠合并慢性高血压.md",
+                "file": "医学/学科/临床/内科/心血管内科/心血管内科总论/考研题目/心血管内科-考研题目.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "产科-妊娠合并慢性高血压"
+              "title": "心血管内科-考研题目"
             }
           },
           {
-            "id": "ee6fa89f5b5dafdb",
+            "id": "2534b5a5f5061243",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "医学/学科/临床/专科/妇产/妇科/妇科总论/妇科症状/下腹疼痛/妇科-下腹疼痛.md",
+                "file": "Clippings/ECCO-ESGAR Guideline for Diagnostic Assessment in IBD Part 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "妇科-下腹疼痛"
+              "title": "ECCO-ESGAR Guideline for Diagnostic Assessment in IBD Part 1"
             }
           },
           {
-            "id": "f95a6d1b34fa4f06",
+            "id": "9993bb78c09ed78f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "260123 0035.md",
+                "file": "Clippings/RWS/UPA UC/Real‐World Comparative Effectiveness and Safety of Upadacitinib plus Vedolizumab versus Upadacitinib Monotherapy During Induction in Moderate-to-Severe Ulcerative Colitis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260123 0035"
+              "title": "Real‐World Comparative Effectiveness and Safety of Upadacitinib plus Vedolizumab versus Upadacitinib Monotherapy During Induction in Moderate-to-Severe Ulcerative Colitis"
+            }
+          },
+          {
+            "id": "48ac3b10a7c67215",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/RWS/PSM/25 8.7 UST VDZ IFX CD/The effectiveness of second- and-third-line biologics in perianal Crohn’s disease.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The effectiveness of second- and-third-line biologics in perianal Crohn’s disease"
+            }
+          },
+          {
+            "id": "67e3b3090d157e90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/JCC/JCC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JCC"
+            }
+          },
+          {
+            "id": "e15f8a1b26c29f9f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -98,7 +136,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -135,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 357.5
   },
   "right": {
     "id": "81efec2b90ba9194",
@@ -180,13 +218,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "260123 0035.md",
-                "followCursor": false,
+                "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "260123 0035 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -205,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "260123 0035.md",
+                "file": "260317 0125.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +252,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "260123 0035 的反向链接列表"
+              "title": "260317 0125 的反向链接列表"
             }
           },
           {
@@ -224,22 +261,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "医学/学科/临床/内科/消化内科/消化道内科/肠内科/炎症性肠病/克罗恩病/肠内科-克罗恩病.md",
+                "file": "260317 0125.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "肠内科-克罗恩病 的出链列表"
-            }
-          },
-          {
-            "id": "ada89311d0acbf42",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "笔记复习序列"
+              "title": "260317 0125 的出链列表"
             }
           },
           {
@@ -253,13 +280,23 @@
               "icon": "lucide-info",
               "title": "260102 2325的笔记属性"
             }
+          },
+          {
+            "id": "81785338ec36e19c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,61 +308,62 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-spaced-repetition:复习卡片": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "827b6591210ec3d9",
+  "active": "1d808fac92149a74",
   "lastOpenFiles": [
-    "Clippings/RWS/RWS 两药比较/TOF UST 25/Real-world Comparison of the Effectiveness of Tofacitinib and Ustekinumab in Patients With Ulcerative Colitis：The TORUS Study.md",
-    "0Pictures/Pasted image 20260123001822.png",
-    "Clippings/RWS/RWS 两药比较/TOF FIL/Comparative effectiveness and safety of tofacitinib and filgotinib in patients with ulcerative colitis：A propensity score-weighted cohort study.md",
-    "Clippings/RWS/RWS 两药比较/TOF UST 25",
-    "Clippings/RWS/RWS 两药比较/UPA TOF 24/Comparative Effectiveness of Upadacitinib and Tofacitinib in Ulcerative Colitis：A US Propensity-Matched Cohort Study.md",
-    "Clippings/RWS/RWS 两药比较/UPA TOF 24",
-    "260123 0035.md",
-    "260122 1445.md",
-    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/妊娠期高血压疾病/妊娠合并慢性高血压/产科-妊娠合并慢性高血压.md",
-    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/妊娠期高血压疾病/子痫前期-子痫/产科-子痫前期-子痫.md",
-    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/妊娠期高血压疾病/子痫前期-子痫/HELLP综合征/产科-HELLP综合征.md",
-    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/妊娠期高血压疾病/子痫前期-子痫/HELLP综合征",
-    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/妊娠期高血压疾病/子痫前期-子痫/子痫前期/产科-子痫前期.md",
-    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/妊娠期高血压疾病/子痫前期-子痫/子痫前期",
-    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/妊娠期高血压疾病/子痫前期-子痫/子痫/产科-子痫.md",
-    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/妊娠期高血压疾病/子痫前期-子痫/子痫",
-    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/妊娠期高血压疾病/子痫前期-子痫/慢性高血压并发子痫前期/产科-慢性高血压并发子痫前期.md",
-    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/妊娠期高血压疾病/子痫前期-子痫/慢性高血压并发子痫前期",
-    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/妊娠期高血压疾病/产科-妊娠期高血压疾病.md",
-    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/妊娠期高血压疾病/产科-妊娠期高血压疾病-export.xmind",
-    "医学/学科/临床/专科/妇产/妇科/妇科总论/妇科症状/下腹疼痛/妇科-下腹疼痛.md",
-    "医学/学科/临床/内科/心血管内科/血管内科/高血压/原发性高血压(高血压病)/血管内科-原发性高血压(高血压病).md",
-    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/异位妊娠(宫外孕)/产科-异位妊娠(宫外孕).md",
-    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/异位妊娠(宫外孕)/产科-异位妊娠(宫外孕)-export.xmind",
-    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/异位妊娠(宫外孕)/输卵管妊娠/产科-输卵管妊娠.md",
-    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/异位妊娠(宫外孕)/输卵管妊娠/产科-输卵管妊娠-export.xmind",
-    "医学/学科/临床/专科/妇产/妇科/妇科总论/妇科症状/妇科-下腹疼痛.md",
-    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/异位妊娠(宫外孕)/输卵管妊娠",
-    "医学/学科/临床/内科/心血管内科/血管内科/动脉粥样硬化/血管内科-动脉粥样硬化.md",
-    "医学/学科/临床/内科/心血管内科/血管内科/动脉粥样硬化/抗动脉粥样硬化药/血管内科-抗动脉粥样硬化药.md",
-    "医学/学科/临床/专科/妇产/产科/妊娠期疾病/妊娠并发症/自然流产/产科-自然流产.md",
-    "医学/学科/临床/内科/消化内科/消化内科总论/消化系统诊断/消化系统临床表现/消化系统症状/腹腔积液(腹水)/消化内科-腹腔积液(腹水).md",
-    "医学/学科/临床/内科/内分泌科/代谢/水电解质酸碱代谢紊乱/水电解质代谢紊乱/水钠代谢紊乱/水肿(浆膜腔积液)/代谢-水肿(浆膜腔积液).md",
-    "医学/学科/临床/内科/呼吸内科/胸膜疾病/胸腔积液(胸水)/呼吸内科-胸腔积液(胸水).md",
-    "医学/学科/临床/内科/心血管内科/心内科/心内科总论/心内科诊断/心内科临床表现/心源性水肿/心内科-心源性水肿.md",
-    "医学/学科/临床/内科/内分泌科/内分泌科总论/内分泌性水肿/内分泌科-内分泌性水肿.md",
-    "0Pictures/Pasted image 20260116121729.png",
-    "0Pictures/Pasted image 20260112201639.png",
-    "0Pictures/Pasted image 20260112201622.png",
-    "0Pictures/Pasted image 20260112201555.png",
-    "0Pictures/Pasted image 20260112201543.png",
-    "0Pictures/Pasted image 20260112201524.png",
-    "0Pictures/Pasted image 20260112201503.png",
+    "0Pictures/2603/260320",
+    "Clippings/RWS/PSM/25 8.7 UST VDZ IFX CD/The effectiveness of second- and-third-line biologics in perianal Crohn’s disease.md",
+    "Clippings/JCC/JCC.md",
+    "医学/学科/临床/外科/心血管外科/心外科/后天性心脏病/心脏瓣膜病/主动脉瓣关闭不全(主动脉瓣反流)/题目/未命名.md",
+    "医学/学科/临床/外科/心血管外科/心外科/后天性心脏病/心脏瓣膜病/主动脉瓣关闭不全(主动脉瓣反流)/题目",
+    "Clippings/A multicenter study of the real-world effectiveness and safety of risankizumab in Crohn’s disease.md",
+    "260324 1230.md",
+    "Clippings/JCC",
+    "260324 0030.md",
+    "260323 0125.md",
+    "Obsidian.md",
+    "Clippings/RWS/UPA UC/GPT/260322/GPT-260322-3.md",
+    "Clippings/RWS/UPA UC/GPT/260322/GPT-260322-2.md",
+    "Clippings/RWS/UPA UC/GPT/260322/GPT-260322-1.md",
+    "Clippings/ECCO 2026/J. Yao/H. Wu/OP02 Efficacy and safety of vedolizumab combined with upadacitinib as an 8-week induction strategy in moderate-to-severe ulcerative colitis.md",
+    "Clippings/RWS/UPA UC/GPT/未命名",
+    "Clippings/RWS/UPA UC/GPT/260322",
+    "Clippings/RWS/Pair/25 8.7 T2DM CD/Impact of type 2 diabetes on clinical outcomes and advanced therapy use in patients with Crohn’s disease.md",
+    "Clippings/ECCO-ESGAR Guideline for Diagnostic Assessment in IBD Part 1.md",
+    "Clippings/RWS/UPA UC/Real‐World Comparative Effectiveness and Safety of Upadacitinib plus Vedolizumab versus Upadacitinib Monotherapy During Induction in Moderate-to-Severe Ulcerative Colitis.md",
+    "医学/学科/临床/内科/心血管内科/心内科/心脏功能病变/心力衰竭/抗心衰药/可溶性鸟苷酸环化酶激动药(西呱)/心内科-可溶性鸟苷酸环化酶激动药(西呱).md",
+    "医学/学科/临床/内科/心血管内科/心内科/心脏功能病变/心力衰竭/抗心衰药/正性肌力药/心内科-正性肌力药.md",
+    "医学/学科/临床/内科/心血管内科/心内科/心脏功能病变/心力衰竭/抗心衰药/心内科-抗心衰药.md",
+    "医学/学科/临床/内科/心血管内科/心内科/心脏功能病变/心力衰竭/抗心衰药/扩血管药/心内科-扩血管药.md",
+    "医学/学科/临床/内科/心血管内科/心内科/心脏功能病变/心力衰竭/抗心衰药/正性肌力药/强心苷类(洋地黄类)/心内科-强心苷类(洋地黄类).md",
+    "医学/学科/临床/内科/心血管内科/心内科/心脏功能病变/心力衰竭/抗心衰药/正性肌力药/非苷类正性肌力药/心内科-非苷类正性肌力药.md",
+    "医学/学科/临床/内科/心血管内科/心内科/心脏功能病变/心律失常/抗心律失常药/伊伐布雷定/心内科-伊伐布雷定.md",
+    "医学/学科/临床/内科/心血管内科/心内科/心脏功能病变/心力衰竭/抗心衰药/题目/心内科-抗心衰药-题目.md",
+    "医学/学科/临床/内科/心血管内科/心血管内科总论/考研题目/心血管内科-考研题目.md",
+    "医学/学科/临床/内科/心血管内科/心内科/心脏功能病变/心力衰竭/抗心衰药/题目",
+    "医学/学科/临床/内科/心血管内科/血管内科/高血压/抗高血压药(降血压药)/血管平滑肌扩张药/硝普钠/题目/血管内科-硝普钠-题目.md",
+    "医学/学科/临床/内科/心血管内科/血管内科/高血压/抗高血压药(降血压药)/血管平滑肌扩张药/硝普钠/题目",
+    "医学/学科/临床/内科/心血管内科/心血管内科总论/考研题目",
+    "医学/学科/临床/内科/心血管内科/心内科/心脏功能病变/心力衰竭/题目",
+    "医学/学科/临床/内科/心血管内科/血管内科/高血压/原发性高血压(高血压病)/题目",
+    "医学/学科/基础/药理/离子通道药物/钙通道药物/钙通道阻滞药(钙拮抗药)/题目",
+    "0Pictures/2603/260320/Pasted image 20260320005918.png",
+    "0Pictures/2603/260311/Pasted image 20260311005453.png",
+    "0Pictures/2509/250901/P1-Review Research progress in the relationship between type 2 diabetes mellitus and intestinal flora.png",
+    "0Pictures/2603/260301/Pasted image 20260301145259.png",
+    "0Pictures/2602/260227/Pasted image 20260227155650.png",
+    "0Pictures/2603/260305/Pasted image 20260305193931.png",
+    "0Pictures/2603/260301/Pasted image 20260301154548.png",
+    "0Pictures/2603/260301/Pasted image 20260301154525.png",
+    "0Pictures/2602/260228/Figure.jpg",
+    "0Pictures/2602/260228/Figure 2.png",
     "未命名.canvas",
-    "0Pictures/Pasted image 20260110161603.png",
-    "0Pictures/Pasted image 20260105232900.png",
-    "医学/学科/临床/专科/妇产/妇科/生殖内分泌疾病/闭经/原发性闭经诊断步骤.canvas",
+    "医学/学科/临床/专科/妇产/妇科/生殖内分泌疾病/闭经/图片/原发性闭经诊断步骤.canvas",
     "医学/学科/临床/外科/普通外科/腹外科/肝胆胰脾外科/胆外科/未命名.canvas",
     "医学/学科/临床/内科/心血管内科/心内科/心脏功能病变/心力衰竭/慢性心力衰竭/图片/未命名.canvas",
     "医学/学科/临床/专科/肿瘤/胸部恶性肿瘤/支气管肺癌/未命名.canvas",

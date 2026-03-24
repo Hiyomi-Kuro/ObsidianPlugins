@@ -61,14 +61,6 @@
     }
   ],
   "app:open-settings": [],
-  "outline:open-for-current": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "D"
-    }
-  ],
   "editor:toggle-bullet-list": [
     {
       "modifiers": [
@@ -172,6 +164,15 @@
         "Alt"
       ],
       "key": "J"
+    }
+  ],
+  "workspace:edit-file-title": [],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
     }
   ]
 }
