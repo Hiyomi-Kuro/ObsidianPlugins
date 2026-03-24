@@ -109,14 +109,18 @@
             "id": "e15f8a1b26c29f9f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "260324 1230.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "260324 1230"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -218,12 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Clippings/RWS/PSM/25 8.7 UST VDZ IFX CD/The effectiveness of second- and-third-line biologics in perianal Crohn’s disease.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "The effectiveness of second- and-third-line biologics in perianal Crohn’s disease 的大纲"
             }
           },
           {
@@ -314,15 +319,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d808fac92149a74",
+  "active": "48ac3b10a7c67215",
   "lastOpenFiles": [
+    "Clippings/JCC/JCC.md",
+    "260324 1230.md",
     "0Pictures/2603/260320",
     "Clippings/RWS/PSM/25 8.7 UST VDZ IFX CD/The effectiveness of second- and-third-line biologics in perianal Crohn’s disease.md",
-    "Clippings/JCC/JCC.md",
     "医学/学科/临床/外科/心血管外科/心外科/后天性心脏病/心脏瓣膜病/主动脉瓣关闭不全(主动脉瓣反流)/题目/未命名.md",
     "医学/学科/临床/外科/心血管外科/心外科/后天性心脏病/心脏瓣膜病/主动脉瓣关闭不全(主动脉瓣反流)/题目",
     "Clippings/A multicenter study of the real-world effectiveness and safety of risankizumab in Crohn’s disease.md",
-    "260324 1230.md",
     "Clippings/JCC",
     "260324 0030.md",
     "260323 0125.md",
@@ -351,7 +356,6 @@
     "医学/学科/临床/内科/心血管内科/心血管内科总论/考研题目",
     "医学/学科/临床/内科/心血管内科/心内科/心脏功能病变/心力衰竭/题目",
     "医学/学科/临床/内科/心血管内科/血管内科/高血压/原发性高血压(高血压病)/题目",
-    "医学/学科/基础/药理/离子通道药物/钙通道药物/钙通道阻滞药(钙拮抗药)/题目",
     "0Pictures/2603/260320/Pasted image 20260320005918.png",
     "0Pictures/2603/260311/Pasted image 20260311005453.png",
     "0Pictures/2509/250901/P1-Review Research progress in the relationship between type 2 diabetes mellitus and intestinal flora.png",
