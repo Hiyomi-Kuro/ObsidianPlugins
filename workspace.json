@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -250,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/RWS/UPA UC/GPT/260324/GPT-260324-2.md",
+                "file": "Clippings/RWS/UPA UC/Real‐World Comparative Effectiveness and Safety of Upadacitinib plus Vedolizumab versus Upadacitinib Monotherapy During Induction in Moderate-to-Severe Ulcerative Colitis.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "GPT-260324-2 的大纲"
+              "title": "Real‐World Comparative Effectiveness and Safety of Upadacitinib plus Vedolizumab versus Upadacitinib Monotherapy During Induction in Moderate-to-Severe Ulcerative Colitis 的大纲"
             }
           },
           {
@@ -347,10 +347,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "021323c079f21d14",
+  "active": "9993bb78c09ed78f",
   "lastOpenFiles": [
-    "Clippings/RWS/UPA UC/GPT/260324/GPT-260324-1.md",
     "Clippings/RWS/UPA UC/GPT/260324/GPT-260324-2.md",
+    "Clippings/RWS/UPA UC/GPT/260324/GPT-260324-1.md",
     "Clippings/JCC/JCC-Manuscript Preparation.md",
     "Clippings/RWS/UPA UC/GPT/260324",
     "Clippings/RWS/替换匹配法/25 8.7 UST VDZ IFX CD/The effectiveness of second- and-third-line biologics in perianal Crohn’s disease.md",
