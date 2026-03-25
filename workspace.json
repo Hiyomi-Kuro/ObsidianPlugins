@@ -123,7 +123,7 @@
             "id": "c09b6868264037a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapview",
               "state": {
                 "file": "Clippings/PS/PSM/17/Propensity score method a non-parametric technique to reduce model dependence.md",
                 "mode": "source",
@@ -325,7 +325,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -347,7 +347,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5ae6a3df13a0593",
+  "active": "81785338ec36e19c",
   "lastOpenFiles": [
     "Clippings/PS/PSM/17/Propensity score method a non-parametric technique to reduce model dependence.md",
     "0Pictures/Pasted image 20260325163605.png",
