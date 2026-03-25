@@ -123,7 +123,7 @@
             "id": "c09b6868264037a5",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
                 "file": "Clippings/PS/PSM/17/Propensity score method a non-parametric technique to reduce model dependence.md",
                 "mode": "source",
@@ -188,9 +188,19 @@
               "icon": "lucide-file",
               "title": "Early prescription of quadruple therapy in acute decompensated heart failure with reduced ejection fraction"
             }
+          },
+          {
+            "id": "daede17101a9799a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -292,13 +302,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/RWS/Full/25 3.7 四联 AHF/Early prescription of quadruple therapy in acute decompensated heart failure with reduced ejection fraction.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Early prescription of quadruple therapy in acute decompensated heart failure with reduced ejection fraction 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -389,11 +398,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6aa690645b2cac97",
+  "active": "daede17101a9799a",
   "lastOpenFiles": [
+    "Clippings/PS/PSM/17/Propensity score method a non-parametric technique to reduce model dependence.md",
+    "Clippings/RWS/Full/25 3.7 四联 AHF/Early prescription of quadruple therapy in acute decompensated heart failure with reduced ejection fraction.md",
     "Clippings/Propensity score analysis of triglyceride-glucose index in newly diagnosed patients with essential hypertension as a predictor of microalbuminuria.md",
     "Clippings/RWS/UPA UC/Real‐World Comparative Effectiveness and Safety of Upadacitinib plus Vedolizumab versus Upadacitinib Monotherapy During Induction in Moderate-to-Severe Ulcerative Colitis.md",
-    "Clippings/PS/PSM/17/Propensity score method a non-parametric technique to reduce model dependence.md",
     "260325 1640.md",
     "0Pictures/Pasted image 20260325163605.png",
     "0Pictures/Pasted image 20260325163431.png",
@@ -424,7 +434,6 @@
     "Clippings/杂项/配置/模板/基础/生医/生医-.md",
     "Clippings/杂项/配置/模板/基础/生医/生理-.md",
     "Clippings/杂项/配置/模板/基础/生医/生化-.md",
-    "Clippings/杂项/配置/模板/基础/生医/免疫-.md",
     "医学/学科/临床/内科/心血管内科/血管内科/高血压/原发性高血压(高血压病)/血管内科-原发性高血压(高血压病)-export.xmind",
     "医学/学科/临床/内科/心血管内科/血管内科/高血压/原发性高血压(高血压病)/血管内科-原发性高血压(高血压病)-mindmap-export.xmind",
     "Clippings/PS/PSM/17",
