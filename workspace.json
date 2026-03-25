@@ -325,7 +325,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -333,6 +333,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -341,13 +342,12 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-spaced-repetition:复习卡片": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "827b6591210ec3d9",
+  "active": "81785338ec36e19c",
   "lastOpenFiles": [
     "Clippings/杂项/配置/模板/科研/WC.md",
     "Clippings/杂项/配置/模板/基础/病原/微生物/病毒-.md",
