@@ -50,48 +50,6 @@
             }
           },
           {
-            "id": "2534b5a5f5061243",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/ECCO-ESGAR Guideline for Diagnostic Assessment in IBD Part 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ECCO-ESGAR Guideline for Diagnostic Assessment in IBD Part 1"
-            }
-          },
-          {
-            "id": "9993bb78c09ed78f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/RWS/UPA UC/Real‐World Comparative Effectiveness and Safety of Upadacitinib plus Vedolizumab versus Upadacitinib Monotherapy During Induction in Moderate-to-Severe Ulcerative Colitis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Real‐World Comparative Effectiveness and Safety of Upadacitinib plus Vedolizumab versus Upadacitinib Monotherapy During Induction in Moderate-to-Severe Ulcerative Colitis"
-            }
-          },
-          {
-            "id": "48ac3b10a7c67215",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/JCC/JCC-Manuscript Preparation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JCC-Manuscript Preparation"
-            }
-          },
-          {
             "id": "67e3b3090d157e90",
             "type": "leaf",
             "state": {
@@ -103,20 +61,6 @@
               },
               "icon": "lucide-file",
               "title": "JCC"
-            }
-          },
-          {
-            "id": "e15f8a1b26c29f9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "260324 1950.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "260324 1950"
             }
           },
           {
@@ -134,119 +78,77 @@
             }
           },
           {
-            "id": "021323c079f21d14",
+            "id": "5988816f5ac72c52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/RWS/UPA UC/GPT/260324/GPT-260324-2.md",
+                "file": "Clippings/PS/PSM/91 3.6/A Characterization of Optimal Designs for Observational Studies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GPT-260324-2"
+              "title": "A Characterization of Optimal Designs for Observational Studies"
             }
           },
           {
-            "id": "d9d52ae838c94f80",
+            "id": "b28f9c828082e063",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/ECCO 2026/P0289 Active Management of MRI-Detected Subclinical Perianal Fistulas in Crohn’s Disease.md",
+                "file": "Clippings/RWS/IPTW/25 8.7 TOF VDZ/Tofacitinib Versus Vedolizumab Among Bio-naive Patients With Ulcerative Colitis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "P0289 Active Management of MRI-Detected Subclinical Perianal Fistulas in Crohn’s Disease"
+              "title": "Tofacitinib Versus Vedolizumab Among Bio-naive Patients With Ulcerative Colitis"
             }
           },
           {
-            "id": "555b3abf852f72ed",
+            "id": "989579ab7c24bfa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/SixSunYatSen/Lang Lin/IDDF2025-ABS-0300 Infliximab versus glucocorticoids as first-line therapy for moderate-to-severe ulcerative colitis.md",
+                "file": "Clippings/Recombinant Zoster Vaccine RZV is Effective in Patients with Inflammatory Bowel Disease.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IDDF2025-ABS-0300 Infliximab versus glucocorticoids as first-line therapy for moderate-to-severe ulcerative colitis"
+              "title": "Recombinant Zoster Vaccine RZV is Effective in Patients with Inflammatory Bowel Disease"
             }
           },
           {
-            "id": "d1113ab4449aabe8",
+            "id": "c09b6868264037a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/RWS/Full/15 18 骨髓炎抗生素/Comparative Effectiveness of Intravenous vs Oral Antibiotics for Postdischarge Treatment of Acute Osteomyelitis in Children.md",
+                "file": "Clippings/PS/PSM/17/Propensity score method a non-parametric technique to reduce model dependence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comparative Effectiveness of Intravenous vs Oral Antibiotics for Postdischarge Treatment of Acute Osteomyelitis in Children"
+              "title": "Propensity score method a non-parametric technique to reduce model dependence"
             }
           },
           {
-            "id": "f8f326ac927e0cf1",
+            "id": "f5ae6a3df13a0593",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/RWS/Full/15 18 骨髓炎抗生素/Comparative Effectiveness of Intravenous vs Oral Antibiotics for Postdischarge Treatment of Acute Osteomyelitis in Children.md",
+                "file": "260325 1550.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comparative Effectiveness of Intravenous vs Oral Antibiotics for Postdischarge Treatment of Acute Osteomyelitis in Children"
-            }
-          },
-          {
-            "id": "7f106318db90bb90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/R/R-optmatch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "R-optmatch"
-            }
-          },
-          {
-            "id": "fc4eac686fd00797",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/RWS/UPA UC/GPT/260324/GPT-260324-3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GPT-260324-3"
-            }
-          },
-          {
-            "id": "eb93c70fb16eb10d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "260324 1950.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "260324 1950"
+              "title": "260325 1550"
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -348,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "260324 1950.md",
+                "file": "260325 1550.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "260324 1950 的大纲"
+              "title": "260325 1550 的大纲"
             }
           },
           {
@@ -447,48 +349,48 @@
   },
   "active": "827b6591210ec3d9",
   "lastOpenFiles": [
-    "Obsidian.md",
-    "Clippings/RWS/UPA UC/GPT/260324/GPT-260324-3.md",
-    "Clippings/R/R-optmatch.md",
-    "Clippings/RWS/Full/15 18 骨髓炎抗生素/Comparative Effectiveness of Intravenous vs Oral Antibiotics for Postdischarge Treatment of Acute Osteomyelitis in Children.md",
+    "Clippings/杂项/配置/模板/科研/WC.md",
+    "Clippings/杂项/配置/模板/基础/病原/微生物/病毒-.md",
+    "Clippings/杂项/配置/模板/基础/病原/微生物/微生物-.md",
+    "Clippings/杂项/配置/模板/基础/病原/微生物/细菌-.md",
+    "Clippings/杂项/配置/模板/基础/病原/微生物/真菌-.md",
+    "Clippings/杂项/配置/模板/基础/病原/病原-.md",
+    "Clippings/杂项/配置/模板/基础/病原/寄生虫-.md",
+    "Clippings/杂项/配置/模板/基础/解剖/组胚/组织-.md",
+    "Clippings/杂项/配置/模板/基础/解剖/组胚/组胚-.md",
+    "Clippings/杂项/配置/模板/基础/解剖/组胚/胚胎-.md",
+    "Clippings/杂项/配置/模板/基础/解剖/系解-.md",
+    "Clippings/杂项/配置/模板/基础/解剖/局解-.md",
+    "Clippings/杂项/配置/模板/基础/解剖/解剖-.md",
+    "Clippings/杂项/配置/模板/基础/解剖/病理-.md",
+    "Clippings/杂项/配置/模板/基础/生医/遗传-.md",
+    "Clippings/杂项/配置/模板/基础/心理-.md",
+    "Clippings/杂项/配置/模板/基础/生医/细生-.md",
+    "Clippings/杂项/配置/模板/基础/生医/生医-.md",
+    "Clippings/杂项/配置/模板/基础/生医/生理-.md",
+    "Clippings/杂项/配置/模板/基础/生医/生化-.md",
+    "Clippings/杂项/配置/模板/基础/生医/免疫-.md",
+    "Clippings/杂项/配置/模板/基础/生医/分子医学-.md",
+    "Clippings/杂项/配置/模板/基础/生医/病生-.md",
+    "Clippings/杂项/配置/模板/基础/药理-.md",
+    "Clippings/杂项/配置/模板/科研/胖子RWS-.md",
+    "Clippings/杂项/配置/模板/临床/内科/内分泌科/内分泌科-.md",
+    "医学/学科/临床/内科/心血管内科/血管内科/高血压/原发性高血压(高血压病)/血管内科-原发性高血压(高血压病)-export.xmind",
+    "医学/学科/临床/内科/心血管内科/血管内科/高血压/原发性高血压(高血压病)/血管内科-原发性高血压(高血压病)-mindmap-export.xmind",
+    "Clippings/PS/PSM/17",
+    "Clippings/JCC/PS",
+    "Clippings/PS/PSM/91 3.6",
     "0Pictures/Pasted image 20260324154644.png",
     "0Pictures/Pasted image 20260324154518.png",
     "0Pictures/Pasted image 20260324154456.png",
     "0Pictures/Pasted image 20260324154423.png",
     "0Pictures/Pasted image 20260324154320.png",
-    "Clippings/SixSunYatSen/Lang Lin/IDDF2025-ABS-0300 Infliximab versus glucocorticoids as first-line therapy for moderate-to-severe ulcerative colitis.md",
-    "Clippings/ECCO 2026/P0289 Active Management of MRI-Detected Subclinical Perianal Fistulas in Crohn’s Disease.md",
-    "Clippings/ECCO 2026/Multiple advanced therapies in combination for the treatment of inflammatory boweldisease.md",
-    "Clippings/ECCO 2026/P0786 Real-world effectiveness and safety of upadacitinib in difficult-to-treat Crohn’s Disease A national multicenter study from China.md",
-    "Clippings/RWS/UPA UC/Real‐World Comparative Effectiveness and Safety of Upadacitinib plus Vedolizumab versus Upadacitinib Monotherapy During Induction in Moderate-to-Severe Ulcerative Colitis.md",
-    "Clippings/RWS/UPA UC/GPT/260324/GPT-260324-2.md",
-    "Clippings/RWS/UPA UC/GPT/260324/GPT-260324-1.md",
-    "Clippings/JCC/JCC-Manuscript Preparation.md",
     "Clippings/RWS/UPA UC/GPT/260324",
-    "Clippings/RWS/替换匹配法/25 8.7 UST VDZ IFX CD/The effectiveness of second- and-third-line biologics in perianal Crohn’s disease.md",
     "0Pictures/Pasted image 20260324140841.png",
-    "Clippings/JCC/JCC.md",
-    "260324 1950.md",
     "0Pictures/2603/260320",
-    "医学/学科/临床/外科/心血管外科/心外科/后天性心脏病/心脏瓣膜病/主动脉瓣关闭不全(主动脉瓣反流)/题目/未命名.md",
     "医学/学科/临床/外科/心血管外科/心外科/后天性心脏病/心脏瓣膜病/主动脉瓣关闭不全(主动脉瓣反流)/题目",
-    "Clippings/A multicenter study of the real-world effectiveness and safety of risankizumab in Crohn’s disease.md",
     "Clippings/JCC",
-    "260324 0030.md",
-    "260323 0125.md",
-    "Clippings/RWS/UPA UC/GPT/260322/GPT-260322-3.md",
-    "Clippings/RWS/UPA UC/GPT/260322/GPT-260322-2.md",
-    "Clippings/RWS/UPA UC/GPT/260322/GPT-260322-1.md",
-    "Clippings/ECCO 2026/J. Yao/H. Wu/OP02 Efficacy and safety of vedolizumab combined with upadacitinib as an 8-week induction strategy in moderate-to-severe ulcerative colitis.md",
     "Clippings/RWS/UPA UC/GPT/260322",
-    "Clippings/RWS/Pair/25 8.7 T2DM CD/Impact of type 2 diabetes on clinical outcomes and advanced therapy use in patients with Crohn’s disease.md",
-    "Clippings/ECCO-ESGAR Guideline for Diagnostic Assessment in IBD Part 1.md",
-    "医学/学科/临床/内科/心血管内科/心内科/心脏功能病变/心力衰竭/抗心衰药/可溶性鸟苷酸环化酶激动药(西呱)/心内科-可溶性鸟苷酸环化酶激动药(西呱).md",
-    "医学/学科/临床/内科/心血管内科/心内科/心脏功能病变/心力衰竭/抗心衰药/题目",
-    "医学/学科/临床/内科/心血管内科/血管内科/高血压/抗高血压药(降血压药)/血管平滑肌扩张药/硝普钠/题目",
-    "医学/学科/临床/内科/心血管内科/心血管内科总论/考研题目",
-    "医学/学科/临床/内科/心血管内科/心内科/心脏功能病变/心力衰竭/题目",
-    "医学/学科/临床/内科/心血管内科/血管内科/高血压/原发性高血压(高血压病)/题目",
     "0Pictures/2603/260320/Pasted image 20260320005918.png",
     "0Pictures/2603/260311/Pasted image 20260311005453.png",
     "0Pictures/2509/250901/P1-Review Research progress in the relationship between type 2 diabetes mellitus and intestinal flora.png",
