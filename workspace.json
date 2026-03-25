@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "260325 1550.md",
+                "file": "Clippings/PS/PSM/17/Propensity score method a non-parametric technique to reduce model dependence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260325 1550"
+              "title": "Propensity score method a non-parametric technique to reduce model dependence"
             }
           }
         ],
@@ -250,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "260325 1550.md",
+                "file": "Clippings/PS/PSM/17/Propensity score method a non-parametric technique to reduce model dependence.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "260325 1550 的大纲"
+              "title": "Propensity score method a non-parametric technique to reduce model dependence 的大纲"
             }
           },
           {
@@ -325,7 +325,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -333,7 +333,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -342,13 +341,15 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-spaced-repetition:复习卡片": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81785338ec36e19c",
+  "active": "f5ae6a3df13a0593",
   "lastOpenFiles": [
+    "260325 1550.md",
     "Clippings/杂项/配置/模板/科研/WC.md",
     "Clippings/杂项/配置/模板/基础/病原/微生物/病毒-.md",
     "Clippings/杂项/配置/模板/基础/病原/微生物/微生物-.md",
@@ -374,7 +375,6 @@
     "Clippings/杂项/配置/模板/基础/生医/病生-.md",
     "Clippings/杂项/配置/模板/基础/药理-.md",
     "Clippings/杂项/配置/模板/科研/胖子RWS-.md",
-    "Clippings/杂项/配置/模板/临床/内科/内分泌科/内分泌科-.md",
     "医学/学科/临床/内科/心血管内科/血管内科/高血压/原发性高血压(高血压病)/血管内科-原发性高血压(高血压病)-export.xmind",
     "医学/学科/临床/内科/心血管内科/血管内科/高血压/原发性高血压(高血压病)/血管内科-原发性高血压(高血压病)-mindmap-export.xmind",
     "Clippings/PS/PSM/17",
