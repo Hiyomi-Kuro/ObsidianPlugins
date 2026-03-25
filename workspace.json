@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/UC Guidelines/AGA LIVING GUIDELINES PHARMACOLOGICAL MANAGEMENT OF MODERATE-TO-SEVERE ULCERATIVE COLITIS.md",
+                "file": "260326 0005.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AGA LIVING GUIDELINES PHARMACOLOGICAL MANAGEMENT OF MODERATE-TO-SEVERE ULCERATIVE COLITIS"
+              "title": "260326 0005"
             }
           }
         ],
@@ -306,13 +306,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/UC Guidelines/AGA LIVING GUIDELINES PHARMACOLOGICAL MANAGEMENT OF MODERATE-TO-SEVERE ULCERATIVE COLITIS.md",
+                "file": "260326 0005.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AGA LIVING GUIDELINES PHARMACOLOGICAL MANAGEMENT OF MODERATE-TO-SEVERE ULCERATIVE COLITIS 的大纲"
+              "title": "260326 0005 的大纲"
             }
           },
           {
@@ -381,7 +381,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -403,8 +403,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "daede17101a9799a",
+  "active": "827b6591210ec3d9",
   "lastOpenFiles": [
+    "Clippings/UC Guidelines/AGA LIVING GUIDELINES PHARMACOLOGICAL MANAGEMENT OF MODERATE-TO-SEVERE ULCERATIVE COLITIS.md",
     "Clippings/A multicenter study of the real-world effectiveness and safety of risankizumab in Crohn’s disease.md",
     "Clippings/ECCO-ESGAR Guideline for Diagnostic Assessment in IBD Part 1.md",
     "Clippings/Recombinant Zoster Vaccine RZV is Effective in Patients with Inflammatory Bowel Disease.md",
@@ -418,7 +419,7 @@
     "Clippings/RWS/Full/25 3.7 四联 AHF/Early prescription of quadruple therapy in acute decompensated heart failure with reduced ejection fraction.md",
     "Clippings/Propensity score analysis of triglyceride-glucose index in newly diagnosed patients with essential hypertension as a predictor of microalbuminuria.md",
     "Clippings/RWS/UPA UC/Real‐World Comparative Effectiveness and Safety of Upadacitinib plus Vedolizumab versus Upadacitinib Monotherapy During Induction in Moderate-to-Severe Ulcerative Colitis.md",
-    "260325 1640.md",
+    "260326 0005.md",
     "0Pictures/Pasted image 20260325163605.png",
     "0Pictures/Pasted image 20260325163431.png",
     "0Pictures/Pasted image 20260325163154.png",
@@ -439,7 +440,6 @@
     "Clippings/杂项/配置/模板/基础/解剖/组胚/组胚-.md",
     "Clippings/杂项/配置/模板/基础/解剖/组胚/胚胎-.md",
     "Clippings/杂项/配置/模板/基础/解剖/系解-.md",
-    "Clippings/杂项/配置/模板/基础/解剖/局解-.md",
     "医学/学科/临床/内科/心血管内科/血管内科/高血压/原发性高血压(高血压病)/血管内科-原发性高血压(高血压病)-export.xmind",
     "医学/学科/临床/内科/心血管内科/血管内科/高血压/原发性高血压(高血压病)/血管内科-原发性高血压(高血压病)-mindmap-export.xmind",
     "Clippings/PS/PSM/17",
