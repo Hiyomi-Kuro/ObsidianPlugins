@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "260327 0010.md",
+                "file": "Clippings/RWS/Decreased risk of treatment failure with vedolizumab and thiopurines combined compared with vedolizumab monotherapy in Crohn's disease.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260327 0010"
+              "title": "Decreased risk of treatment failure with vedolizumab and thiopurines combined compared with vedolizumab monotherapy in Crohn's disease"
             }
           }
         ],
@@ -306,13 +306,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "260327 0010.md",
+                "file": "Clippings/RWS/Decreased risk of treatment failure with vedolizumab and thiopurines combined compared with vedolizumab monotherapy in Crohn's disease.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "260327 0010 的大纲"
+              "title": "Decreased risk of treatment failure with vedolizumab and thiopurines combined compared with vedolizumab monotherapy in Crohn's disease 的大纲"
             }
           },
           {
@@ -381,7 +381,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -403,8 +403,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "827b6591210ec3d9",
+  "active": "435b445d131ad516",
   "lastOpenFiles": [
+    "260327 0010.md",
     "Clippings/RWS/Decreased risk of treatment failure with vedolizumab and thiopurines combined compared with vedolizumab monotherapy in Crohn's disease.md",
     "0Pictures/Pasted image 20260326200606.png",
     "0Pictures/Pasted image 20260326200437.png",
@@ -423,7 +424,6 @@
     "Clippings/RWS/P325 A propensity score-weighted comparison of vedolizumab and adalimumab in Crohn’s disease.md",
     "Clippings/RWS/Propensity score analysis of triglyceride-glucose index in newly diagnosed patients with essential hypertension as a predictor of microalbuminuria.md",
     "Clippings/RWS/Recombinant Zoster Vaccine RZV is Effective in Patients with Inflammatory Bowel Disease.md",
-    "260327 0010.md",
     "Clippings/IP - IP查询 - IP地址查询本机 - 我的公网IP.md",
     "Clippings/RWS/Full/25 3.7 四联 AHF/Early prescription of quadruple therapy in acute decompensated heart failure with reduced ejection fraction.md",
     "260326 0005.md",
