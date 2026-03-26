@@ -202,21 +202,9 @@
               "icon": "lucide-file",
               "title": "Decreased risk of treatment failure with vedolizumab and thiopurines combined compared with vedolizumab monotherapy in Crohn's disease"
             }
-          },
-          {
-            "id": "fa1b0963d36a6379",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "0Pictures/2603/260324/Pasted image 20260324154518.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260324154518"
-            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -236,7 +224,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -318,13 +306,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0Pictures/2603/260324/Pasted image 20260324154518.png",
+                "file": "0Pictures/2603/260325/Pasted image 20260325161539.png",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Pasted image 20260324154518 的大纲"
+              "title": "Pasted image 20260325161539 的大纲"
             }
           },
           {
@@ -417,6 +405,8 @@
   },
   "active": "1d808fac92149a74",
   "lastOpenFiles": [
+    "0Pictures/2603/260324/Pasted image 20260324154518.png",
+    "0Pictures/2603/260325",
     "0Pictures/2603/260324",
     "Clippings/RWS/Decreased risk of treatment failure with vedolizumab and thiopurines combined compared with vedolizumab monotherapy in Crohn's disease.md",
     "0Pictures/Pasted image 20260326145236.png",
@@ -442,14 +432,14 @@
     "Clippings/Applied Propensity Score Analysis with R",
     "Clippings/PS/PSM/17/Propensity score method a non-parametric technique to reduce model dependence.md",
     "Clippings/RWS/UPA UC/Real‐World Comparative Effectiveness and Safety of Upadacitinib plus Vedolizumab versus Upadacitinib Monotherapy During Induction in Moderate-to-Severe Ulcerative Colitis.md",
-    "0Pictures/Pasted image 20260325163605.png",
-    "0Pictures/Pasted image 20260325163431.png",
-    "0Pictures/Pasted image 20260325163154.png",
-    "0Pictures/Pasted image 20260325163109.png",
-    "0Pictures/Pasted image 20260325162542.png",
-    "0Pictures/Pasted image 20260325162138.png",
-    "0Pictures/Pasted image 20260325161909.png",
-    "0Pictures/Pasted image 20260325161539.png",
+    "0Pictures/2603/260325/Pasted image 20260325163605.png",
+    "0Pictures/2603/260325/Pasted image 20260325163431.png",
+    "0Pictures/2603/260325/Pasted image 20260325163154.png",
+    "0Pictures/2603/260325/Pasted image 20260325163109.png",
+    "0Pictures/2603/260325/Pasted image 20260325162542.png",
+    "0Pictures/2603/260325/Pasted image 20260325162138.png",
+    "0Pictures/2603/260325/Pasted image 20260325161909.png",
+    "0Pictures/2603/260325/Pasted image 20260325161539.png",
     "Clippings/PS/PSM/25 32.1/Propensity score matching.md",
     "Clippings/杂项/配置/模板/科研/WC.md",
     "Clippings/杂项/配置/模板/基础/病原/微生物/病毒-.md",
@@ -461,8 +451,6 @@
     "Clippings/PS/PSM/91 3.6",
     "Clippings/RWS/UPA UC/GPT/260324",
     "0Pictures/2603/260320",
-    "医学/学科/临床/外科/心血管外科/心外科/后天性心脏病/心脏瓣膜病/主动脉瓣关闭不全(主动脉瓣反流)/题目",
-    "Clippings/JCC",
     "未命名.canvas",
     "医学/学科/临床/专科/妇产/妇科/生殖内分泌疾病/闭经/图片/原发性闭经诊断步骤.canvas",
     "医学/学科/临床/外科/普通外科/腹外科/肝胆胰脾外科/胆外科/未命名.canvas",
