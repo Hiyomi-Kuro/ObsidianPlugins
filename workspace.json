@@ -202,9 +202,21 @@
               "icon": "lucide-file",
               "title": "Decreased risk of treatment failure with vedolizumab and thiopurines combined compared with vedolizumab monotherapy in Crohn's disease"
             }
+          },
+          {
+            "id": "fa1b0963d36a6379",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "0Pictures/2603/260324/Pasted image 20260324154518.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260324154518"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -306,13 +318,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/RWS/Decreased risk of treatment failure with vedolizumab and thiopurines combined compared with vedolizumab monotherapy in Crohn's disease.md",
+                "file": "0Pictures/2603/260324/Pasted image 20260324154518.png",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Decreased risk of treatment failure with vedolizumab and thiopurines combined compared with vedolizumab monotherapy in Crohn's disease 的大纲"
+              "title": "Pasted image 20260324154518 的大纲"
             }
           },
           {
@@ -403,14 +415,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03a0ae630abf5271",
+  "active": "1d808fac92149a74",
   "lastOpenFiles": [
+    "0Pictures/2603/260324",
+    "Clippings/RWS/Decreased risk of treatment failure with vedolizumab and thiopurines combined compared with vedolizumab monotherapy in Crohn's disease.md",
+    "0Pictures/Pasted image 20260326145236.png",
+    "0Pictures/Pasted image 20260326145208.png",
     "Clippings/RWS/Pair RR/24 6.7 FIL UPA/Real‐World Comparative Effectiveness and Safety of Filgotinib and Upadacitinib for Ulcerative Colitis.md",
     "Clippings/RWS/IPTW RR/Real-World Effectiveness of Ensitrelvir in Reducing Severe Outcomes in Outpatients at High Risk for COVID-19.md",
     "Clippings/RWS/A multicenter study of the real-world effectiveness and safety of risankizumab in Crohn’s disease.md",
     "Clippings/PS/PSM/An Introduction to Propensity Score Methods for Reducing the Effects of Confounding in Observational Studies.md",
     "Clippings/UC Guidelines/ECCO-ESGAR Guideline for Diagnostic Assessment in IBD Part 1.md",
-    "Clippings/RWS/Decreased risk of treatment failure with vedolizumab and thiopurines combined compared with vedolizumab monotherapy in Crohn's disease.md",
     "Clippings/RWS/P325 A propensity score-weighted comparison of vedolizumab and adalimumab in Crohn’s disease.md",
     "Clippings/RWS/Propensity score analysis of triglyceride-glucose index in newly diagnosed patients with essential hypertension as a predictor of microalbuminuria.md",
     "Clippings/RWS/Recombinant Zoster Vaccine RZV is Effective in Patients with Inflammatory Bowel Disease.md",
@@ -439,14 +454,11 @@
     "Clippings/杂项/配置/模板/科研/WC.md",
     "Clippings/杂项/配置/模板/基础/病原/微生物/病毒-.md",
     "Clippings/杂项/配置/模板/基础/病原/微生物/微生物-.md",
-    "Clippings/杂项/配置/模板/基础/病原/微生物/细菌-.md",
     "医学/学科/临床/内科/心血管内科/血管内科/高血压/原发性高血压(高血压病)/血管内科-原发性高血压(高血压病)-export.xmind",
     "医学/学科/临床/内科/心血管内科/血管内科/高血压/原发性高血压(高血压病)/血管内科-原发性高血压(高血压病)-mindmap-export.xmind",
     "Clippings/PS/PSM/17",
     "Clippings/JCC/PS",
     "Clippings/PS/PSM/91 3.6",
-    "0Pictures/Pasted image 20260324154644.png",
-    "0Pictures/Pasted image 20260324154518.png",
     "Clippings/RWS/UPA UC/GPT/260324",
     "0Pictures/2603/260320",
     "医学/学科/临床/外科/心血管外科/心外科/后天性心脏病/心脏瓣膜病/主动脉瓣关闭不全(主动脉瓣反流)/题目",
