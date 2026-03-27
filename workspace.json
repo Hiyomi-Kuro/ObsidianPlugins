@@ -191,12 +191,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/WC/图解临床研究｜第3期：基线不均衡时怎么办！.md",
+                "file": "Clippings/RWS/Prognostic Impact of Mildly Impaired Renal Function in Patients Undergoing Multivessel Coronary Revascularization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "图解临床研究｜第3期：基线不均衡时怎么办！"
+              "title": "Prognostic Impact of Mildly Impaired Renal Function in Patients Undergoing Multivessel Coronary Revascularization"
             }
           }
         ],
@@ -302,13 +302,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/WC/图解临床研究｜第3期：基线不均衡时怎么办！.md",
+                "file": "Clippings/RWS/Prognostic Impact of Mildly Impaired Renal Function in Patients Undergoing Multivessel Coronary Revascularization.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "图解临床研究｜第3期：基线不均衡时怎么办！ 的大纲"
+              "title": "Prognostic Impact of Mildly Impaired Renal Function in Patients Undergoing Multivessel Coronary Revascularization 的大纲"
             }
           },
           {
@@ -399,8 +399,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "435b445d131ad516",
+  "active": "1d808fac92149a74",
   "lastOpenFiles": [
+    "Clippings/WC/图解临床研究｜第3期：基线不均衡时怎么办！.md",
+    "Clippings/RWS/Prognostic Impact of Mildly Impaired Renal Function in Patients Undergoing Multivessel Coronary Revascularization.md",
     "Clippings/ECCO 2026/J. Yao/H. Wu/OP02 Efficacy and safety of vedolizumab combined with upadacitinib as an 8-week induction strategy in moderate-to-severe ulcerative colitis.md",
     "Clippings/PS/PSM/17/Propensity score method a non-parametric technique to reduce model dependence.md",
     "Clippings/RWS/Decreased risk of treatment failure with vedolizumab and thiopurines combined compared with vedolizumab monotherapy in Crohn's disease.md",
@@ -435,8 +437,6 @@
     "Clippings/Applied Propensity Score Analysis with R/Chapter 5 Sensitivity Analysis.md",
     "Clippings/Applied Propensity Score Analysis with R/Chapter 3 Matching.md",
     "Clippings/Applied Propensity Score Analysis with R/Chapter 4 Weighting.md",
-    "Clippings/Applied Propensity Score Analysis with R/Chapter 2 Stratification.md",
-    "Clippings/Applied Propensity Score Analysis with R/Chapter 1 Introduction.md",
     "Clippings/Applied Propensity Score Analysis with R",
     "0Pictures/2603/260325/Pasted image 20260325163605.png",
     "0Pictures/2603/260325/Pasted image 20260325163431.png",
