@@ -203,10 +203,14 @@
             "id": "892d1c7e9d538f2b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/病例不均衡怎么办？一文教你用PSM搞定组间差异.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "病例不均衡怎么办？一文教你用PSM搞定组间差异"
             }
           }
         ],
@@ -312,13 +316,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "260330 0300.md",
+                "file": "Clippings/病例不均衡怎么办？一文教你用PSM搞定组间差异.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "260330 0300 的大纲"
+              "title": "病例不均衡怎么办？一文教你用PSM搞定组间差异 的大纲"
             }
           },
           {
@@ -409,7 +413,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "827b6591210ec3d9",
+  "active": "892d1c7e9d538f2b",
   "lastOpenFiles": [
     "Clippings/病例不均衡怎么办？一文教你用PSM搞定组间差异.md",
     "Clippings/文献精读 · 第6期敏感性分析不是没自信，是更自信！CRAB研究教你“结论怎么站得稳”.md",
