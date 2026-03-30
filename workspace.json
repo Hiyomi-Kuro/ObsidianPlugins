@@ -161,10 +161,14 @@
             "id": "4b9eb23286d0520e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/RWS/Pair RR/24 6.7 FIL UPA/Real‐World Comparative Effectiveness and Safety of Filgotinib and Upadacitinib for Ulcerative Colitis.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Real‐World Comparative Effectiveness and Safety of Filgotinib and Upadacitinib for Ulcerative Colitis"
             }
           }
         ],
@@ -270,12 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Clippings/RWS/Pair RR/24 6.7 FIL UPA/Real‐World Comparative Effectiveness and Safety of Filgotinib and Upadacitinib for Ulcerative Colitis.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Real‐World Comparative Effectiveness and Safety of Filgotinib and Upadacitinib for Ulcerative Colitis 的大纲"
             }
           },
           {
@@ -344,7 +349,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
