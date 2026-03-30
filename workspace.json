@@ -92,69 +92,13 @@
             }
           },
           {
-            "id": "b28f9c828082e063",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/RWS/IPTW/25 8.7 TOF VDZ/Tofacitinib Versus Vedolizumab Among Bio-naive Patients With Ulcerative Colitis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tofacitinib Versus Vedolizumab Among Bio-naive Patients With Ulcerative Colitis"
-            }
-          },
-          {
-            "id": "989579ab7c24bfa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Recombinant Zoster Vaccine RZV is Effective in Patients with Inflammatory Bowel Disease.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Recombinant Zoster Vaccine RZV is Effective in Patients with Inflammatory Bowel Disease"
-            }
-          },
-          {
-            "id": "f5ae6a3df13a0593",
+            "id": "bc3768d0678b2552",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "新标签页"
-            }
-          },
-          {
-            "id": "597ebc25a090832c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/RWS/UPA UC/Real‐World Comparative Effectiveness and Safety of Upadacitinib plus Vedolizumab versus Upadacitinib Monotherapy During Induction in Moderate-to-Severe Ulcerative Colitis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Real‐World Comparative Effectiveness and Safety of Upadacitinib plus Vedolizumab versus Upadacitinib Monotherapy During Induction in Moderate-to-Severe Ulcerative Colitis"
-            }
-          },
-          {
-            "id": "bc3768d0678b2552",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Propensity score analysis of triglyceride-glucose index in newly diagnosed patients with essential hypertension as a predictor of microalbuminuria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Propensity score analysis of triglyceride-glucose index in newly diagnosed patients with essential hypertension as a predictor of microalbuminuria"
             }
           },
           {
@@ -212,9 +156,19 @@
               "icon": "lucide-file",
               "title": "GPT-260330-1"
             }
+          },
+          {
+            "id": "4b9eb23286d0520e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -316,13 +270,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/RWS/UPA UC/GPT/260330/GPT-260330-1.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "GPT-260330-1 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -413,10 +366,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "892d1c7e9d538f2b",
+  "active": "4b9eb23286d0520e",
   "lastOpenFiles": [
-    "Clippings/RWS/UPA UC/GPT/260330/GPT-260330-2.md",
+    "Clippings/RWS/替换匹配法/25 8.7 UST VDZ IFX CD/The effectiveness of second- and-third-line biologics in perianal Crohn’s disease.md",
+    "Clippings/PS/PSM/91 3.6/A Characterization of Optimal Designs for Observational Studies.md",
+    "Clippings/RWS/IPTW/25 8.7 TOF VDZ/Tofacitinib Versus Vedolizumab Among Bio-naive Patients With Ulcerative Colitis.md",
+    "Clippings/RWS/UPA UC/Real‐World Comparative Effectiveness and Safety of Upadacitinib plus Vedolizumab versus Upadacitinib Monotherapy During Induction in Moderate-to-Severe Ulcerative Colitis.md",
     "Clippings/RWS/UPA UC/GPT/260330/GPT-260330-1.md",
+    "Clippings/RWS/UPA UC/GPT/260330/GPT-260330-2.md",
     "Clippings/PS/PSM系列/WC-第3期匹配怎么玩？一对一、一对多、卡尺、最近邻……全讲清楚.md",
     "Clippings/PS/PSM系列/WC-第2期倾向评分怎么算出来的？这一步最容易被忽视.md",
     "Clippings/PS/PSM系列/WC-第1期组间差异太大，怎么解决？聊聊“倾向评分匹配（PSM）”.md",
@@ -432,7 +389,6 @@
     "Clippings/RWS/Pair RR/24 6.7 FIL UPA/Real‐World Comparative Effectiveness and Safety of Filgotinib and Upadacitinib for Ulcerative Colitis.md",
     "Clippings/RWS/UPA UC/GPT/260330",
     "Clippings/RWS/IPTW RR/Real-World Effectiveness of Ensitrelvir in Reducing Severe Outcomes in Outpatients at High Risk for COVID-19.md",
-    "Clippings/RWS/IPTW/25 8.7 TOF VDZ/Tofacitinib Versus Vedolizumab Among Bio-naive Patients With Ulcerative Colitis.md",
     "Clippings/RWS/IPTW/23 6.7 VDZ IFX/Real‐world effectiveness of vedolizumab compared to anti‐TNF agents in biologic‐naïve patients with ulcerative colitis.md",
     "Clippings/SixSunYatSen/Lang Lin/IDDF2025-ABS-0300 Infliximab versus glucocorticoids as first-line therapy for moderate-to-severe ulcerative colitis.md",
     "Clippings/PS/PSM/WC/WC-PSM.md",
@@ -441,9 +397,6 @@
     "Clippings/RWS/Prognostic Impact of Mildly Impaired Renal Function in Patients Undergoing Multivessel Coronary Revascularization.md",
     "0Pictures/Pasted image 20260328002149.png",
     "Clippings/WC/图解临床研究｜第3期：基线不均衡时怎么办！.md",
-    "Clippings/ECCO 2026/J. Yao/H. Wu/OP02 Efficacy and safety of vedolizumab combined with upadacitinib as an 8-week induction strategy in moderate-to-severe ulcerative colitis.md",
-    "Clippings/PS/PSM/17/Propensity score method a non-parametric technique to reduce model dependence.md",
-    "Clippings/RWS/Decreased risk of treatment failure with vedolizumab and thiopurines combined compared with vedolizumab monotherapy in Crohn's disease.md",
     "Clippings/RWS/Pair/24 7.6 UPA TOF 前瞻",
     "0Pictures/Pasted image 20260326200606.png",
     "0Pictures/Pasted image 20260326200437.png",
