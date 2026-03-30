@@ -205,12 +205,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/PS/PSM系列/WC-第2期倾向评分怎么算出来的？这一步最容易被忽视.md",
+                "file": "Clippings/PS/PSM系列/WC-第3期匹配怎么玩？一对一、一对多、卡尺、最近邻……全讲清楚.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WC-第2期倾向评分怎么算出来的？这一步最容易被忽视"
+              "title": "WC-第3期匹配怎么玩？一对一、一对多、卡尺、最近邻……全讲清楚"
             }
           }
         ],
@@ -316,13 +316,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/PS/PSM系列/WC-第2期倾向评分怎么算出来的？这一步最容易被忽视.md",
+                "file": "Clippings/PS/PSM系列/WC-第3期匹配怎么玩？一对一、一对多、卡尺、最近邻……全讲清楚.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "WC-第2期倾向评分怎么算出来的？这一步最容易被忽视 的大纲"
+              "title": "WC-第3期匹配怎么玩？一对一、一对多、卡尺、最近邻……全讲清楚 的大纲"
             }
           },
           {
@@ -415,6 +415,7 @@
   },
   "active": "892d1c7e9d538f2b",
   "lastOpenFiles": [
+    "Clippings/PS/PSM系列/WC-第2期倾向评分怎么算出来的？这一步最容易被忽视.md",
     "Clippings/PS/PSM系列/WC-第1期组间差异太大，怎么解决？聊聊“倾向评分匹配（PSM）”.md",
     "Clippings/PS/PSM系列/WC-第6期别再乱用倾向评分了！这5种情况根本不适合.md",
     "Clippings/PS/PSM系列/WC-第5期IPTW 加权建模：从原理到代码，一次讲透！.md",
@@ -423,7 +424,6 @@
     "Clippings/Wc-少即是多：R 代码也要断舍离.md",
     "Clippings/PS/PSM系列/WC-第4期匹配后到底怎么分析？配对结构、多因素、稳健SE、加权回归……一文讲清楚.md",
     "Clippings/PS/PSM系列/WC-第3期匹配怎么玩？一对一、一对多、卡尺、最近邻……全讲清楚.md",
-    "Clippings/PS/PSM系列/WC-第2期倾向评分怎么算出来的？这一步最容易被忽视.md",
     "Clippings/PS/PSM系列",
     "Clippings/PS/PSM/WC/WC-除了PSM，你还可以用 IPTW 平衡组间差异！.md",
     "260330 1025.md",
