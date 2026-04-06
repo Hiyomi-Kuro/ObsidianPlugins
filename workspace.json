@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -223,13 +223,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/RWS/260406/GPT-Table2.md",
+                "file": "Clippings/RWS/260406/补充.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "GPT-Table2 的大纲"
+              "title": "补充 的大纲"
             }
           },
           {
@@ -321,13 +321,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3fe54d72e9004574",
+  "active": "08c6f4ed4ab64991",
   "lastOpenFiles": [
+    "Clippings/RWS/260406/GPT-Table2.md",
     "Clippings/RWS/260406/GPT-Full matching.md",
     "Clippings/RWS/260406/补充.md",
     "Clippings/RWS/260406/GPT-Discussion.md",
     "Clippings/RWS/Decreased risk of treatment failure with vedolizumab and thiopurines combined compared with vedolizumab monotherapy in Crohn's disease.md",
-    "Clippings/RWS/260406/GPT-Table2.md",
     "Clippings/RWS/260406/GPT-Patient Characteristics.md",
     "Clippings/RWS/260406",
     "Clippings/JCC/JCC.md",
