@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -209,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/RWS/260406/补充.md",
+                "file": "Clippings/RWS/Decreased risk of treatment failure with vedolizumab and thiopurines combined compared with vedolizumab monotherapy in Crohn's disease.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "补充 的大纲"
+              "title": "Decreased risk of treatment failure with vedolizumab and thiopurines combined compared with vedolizumab monotherapy in Crohn's disease 的大纲"
             }
           },
           {
@@ -307,10 +307,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08c6f4ed4ab64991",
+  "active": "48edff760c495053",
   "lastOpenFiles": [
-    "Clippings/RWS/Decreased risk of treatment failure with vedolizumab and thiopurines combined compared with vedolizumab monotherapy in Crohn's disease.md",
     "Clippings/RWS/260406/补充.md",
+    "Clippings/RWS/Decreased risk of treatment failure with vedolizumab and thiopurines combined compared with vedolizumab monotherapy in Crohn's disease.md",
     "Clippings/RWS/260406/GPT-Discussion.md",
     "Clippings/RWS/260406/GPT-Table2.md",
     "Clippings/RWS/260406/GPT-Full matching.md",
