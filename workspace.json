@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/RWS/260406/GPT-Table2.md",
+                "file": "Clippings/RWS/260406/GPT-Discussion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GPT-Table2"
+              "title": "GPT-Discussion"
             }
           }
         ],
@@ -99,17 +99,17 @@
             }
           },
           {
-            "id": "9a260fd96bcc017d",
+            "id": "27af0b17003018be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/RWS/260406/GPT-Table2.md",
+                "file": "Clippings/RWS/260406/GPT-Discussion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GPT-Table2"
+              "title": "GPT-Discussion"
             }
           }
         ],
@@ -170,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 357.5,
+    "collapsed": true
   },
   "right": {
     "id": "81efec2b90ba9194",
@@ -215,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/RWS/260406/GPT-Table2.md",
+                "file": "Clippings/RWS/260406/GPT-Discussion.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "GPT-Table2 的大纲"
+              "title": "GPT-Discussion 的大纲"
             }
           },
           {
@@ -313,11 +314,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a260fd96bcc017d",
+  "active": "27af0b17003018be",
   "lastOpenFiles": [
+    "Clippings/RWS/260406/GPT-Discussion.md",
+    "Clippings/RWS/260406/GPT-Table2.md",
     "Clippings/RWS/260406/GPT-Full matching.md",
     "Clippings/RWS/260406/GPT-Patient Characteristics.md",
-    "Clippings/RWS/260406/GPT-Table2.md",
     "Clippings/RWS/260406",
     "Clippings/JCC/JCC.md",
     "Clippings/RWS/替换匹配法/25 8.7 UST VDZ IFX CD/The effectiveness of second- and-third-line biologics in perianal Crohn’s disease.md",
@@ -348,7 +350,6 @@
     "0Pictures/2603/260326",
     "Clippings/RWS/IPTW/25 8.7 TOF VDZ/Tofacitinib Versus Vedolizumab Among Bio-naive Patients With Ulcerative Colitis.md",
     "Clippings/RWS/UPA UC/GPT/260330/GPT-260330-2.md",
-    "Clippings/PS/PSM系列/WC-第3期匹配怎么玩？一对一、一对多、卡尺、最近邻……全讲清楚.md",
     "Clippings/PS/PSM系列",
     "Clippings/RWS/UPA UC/GPT/260330",
     "Clippings/RWS/Pair/24 7.6 UPA TOF 前瞻",
