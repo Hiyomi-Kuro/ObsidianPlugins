@@ -67,10 +67,14 @@
             "id": "23c553880dbd805c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/UC Guidelines/Comparative Efficacy of Advanced Therapies for Management of Moderate-to-Severe Ulcerative Colitis 2024 AGA Evidence Synthesis.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Comparative Efficacy of Advanced Therapies for Management of Moderate-to-Severe Ulcerative Colitis 2024 AGA Evidence Synthesis"
             }
           }
         ],
@@ -275,6 +279,7 @@
   },
   "active": "23c553880dbd805c",
   "lastOpenFiles": [
+    "Clippings/UC Guidelines/AGA LIVING GUIDELINES PHARMACOLOGICAL MANAGEMENT OF MODERATE-TO-SEVERE ULCERATIVE COLITIS.md",
     "260408 1110.md",
     "医学/学科/临床/内科/消化内科/消化道内科/肠内科(肠病)/炎症性肠病/肠内科-炎症性肠病.md",
     "医学/学科/临床/内科/消化内科/消化道内科/肠内科(肠病)/炎症性肠病/指南/中华儿科杂志-儿童炎症性肠病治疗药物监测实践指南2025.md",
@@ -305,7 +310,6 @@
     "Clippings/RWS/UPA UC/GPT/260406/模仿.md",
     "Clippings/RWS/UPA UC/GPT/260406/GPT-Cover Letter.md",
     "Clippings/IBD Dual Therapy/IBD Matchmaking Rational Combination Therapy.md",
-    "Clippings/IBD Dual Therapy/Efficacy and Safety of Dual Targeted Therapy for Partially or Non-responsive Inflammatory Bowel Disease.md",
     "Clippings/RWS/UPA UC/GPT/260406",
     "Clippings/RWS/ECM",
     "0Pictures/2603/260328/Pasted image 20260328002149.png",
