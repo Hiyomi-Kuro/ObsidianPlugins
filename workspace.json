@@ -64,63 +64,21 @@
             }
           },
           {
-            "id": "3fe54d72e9004574",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/RWS/260406/GPT-Table2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GPT-Table2"
-            }
-          },
-          {
-            "id": "48edff760c495053",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/RWS/Decreased risk of treatment failure with vedolizumab and thiopurines combined compared with vedolizumab monotherapy in Crohn's disease.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Decreased risk of treatment failure with vedolizumab and thiopurines combined compared with vedolizumab monotherapy in Crohn's disease"
-            }
-          },
-          {
-            "id": "08c6f4ed4ab64991",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/RWS/未命名 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名 1"
-            }
-          },
-          {
             "id": "b72c3d952ab79b64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/RWS/260406/GPT-Discussion.md",
+                "file": "260408 1110.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GPT-Discussion"
+              "title": "260408 1110"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -222,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/RWS/未命名 1.md",
+                "file": "医学/学科/临床/内科/消化内科/消化道内科/肠内科(肠病)/炎症性肠病/肠内科-炎症性肠病.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 1 的大纲"
+              "title": "肠内科-炎症性肠病 的大纲"
             }
           },
           {
@@ -297,12 +255,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -320,51 +277,51 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08c6f4ed4ab64991",
+  "active": "827b6591210ec3d9",
   "lastOpenFiles": [
-    "Clippings/RWS/未命名.md",
-    "Clippings/RWS/未命名 1.md",
+    "医学/学科/临床/内科/消化内科/消化道内科/肠内科(肠病)/炎症性肠病/肠内科-炎症性肠病.md",
+    "医学/学科/临床/内科/消化内科/消化道内科/肠内科(肠病)/炎症性肠病/指南/中华儿科杂志-儿童炎症性肠病治疗药物监测实践指南2025.md",
+    "医学/学科/临床/内科/消化内科/消化道内科/肠内科(肠病)/消化道内科-肠内科(肠病).md",
+    "医学/学科/临床/内科/消化内科/消化系统自身免疫病/消化内科-消化系统自身免疫病.md",
+    "Obsidian.md",
+    "医学/学科/临床/内科/心血管内科/心血管内科总论/西综题目/心血管内科-西综题目.md",
+    "医学/学科/临床/专科/神经/运动系统疾病/运动障碍性疾病(锥体外系疾病)/帕金森病(震颤麻痹)/抗帕金森病药/拟多巴胺类药/多巴胺前体药(左旋多巴)/题目/神经-多巴胺前体药(左旋多巴)-题目.md",
+    "医学/学科/临床/专科/神经/神经总论/神经题目/神经-神经题目.md",
+    "医学/学科/临床/专科/神经/神经总论/神经题目",
+    "医学/学科/临床/专科/神经/运动系统疾病/运动障碍性疾病(锥体外系疾病)/帕金森病(震颤麻痹)/抗帕金森病药/拟多巴胺类药/多巴胺前体药(左旋多巴)/神经-多巴胺前体药(左旋多巴).md",
+    "医学/学科/临床/专科/神经/运动系统疾病/运动障碍性疾病(锥体外系疾病)/帕金森病(震颤麻痹)/抗帕金森病药/拟多巴胺类药/多巴胺前体药(左旋多巴)/题目",
+    "医学/学科/临床/专科/神经/运动系统疾病/运动障碍性疾病(锥体外系疾病)/帕金森病(震颤麻痹)/题目/神经-帕金森病(震颤麻痹)-题目.md",
+    "医学/学科/基础/药理/胆碱相关药物/抗胆碱药/题目/药理-抗胆碱药-题目.md",
+    "医学/学科/基础/药理/胆碱相关药物/抗胆碱药/药理-抗胆碱药.md",
+    "医学/学科/基础/药理/胆碱相关药物/抗胆碱药/M 胆碱受体阻断药(节后抗胆碱药)/药理-M 胆碱受体阻断药(节后抗胆碱药).md",
+    "医学/学科/基础/药理/胆碱相关药物/抗胆碱药/题目",
+    "医学/学科/临床/专科/神经/运动系统疾病/运动障碍性疾病(锥体外系疾病)/帕金森病(震颤麻痹)/抗帕金森病药/神经-抗帕金森病药.md",
+    "医学/学科/临床/专科/神经/运动系统疾病/运动障碍性疾病(锥体外系疾病)/帕金森病(震颤麻痹)/抗帕金森病药/拟多巴胺类药/多巴胺受体激动药/神经-多巴胺受体激动药.md",
+    "医学/学科/临床/专科/神经/运动系统疾病/运动障碍性疾病(锥体外系疾病)/帕金森病(震颤麻痹)/抗帕金森病药/拟多巴胺类药/促多巴胺释放药/神经-促多巴胺释放药.md",
+    "医学/学科/临床/专科/神经/运动系统疾病/运动障碍性疾病(锥体外系疾病)/帕金森病(震颤麻痹)/神经-帕金森病(震颤麻痹).md",
+    "医学/学科/临床/专科/神经/运动系统疾病/运动障碍性疾病(锥体外系疾病)/帕金森病(震颤麻痹)/抗帕金森病药/拟多巴胺类药/左旋多巴的增效药/氨基酸脱羧酶抑制药/题目/神经-氨基酸脱羧酶抑制药-题目.md",
+    "医学/学科/临床/专科/神经/运动系统疾病/运动障碍性疾病(锥体外系疾病)/帕金森病(震颤麻痹)/抗帕金森病药/拟多巴胺类药/左旋多巴的增效药/氨基酸脱羧酶抑制药/神经-氨基酸脱羧酶抑制药.md",
+    "医学/学科/临床/专科/神经/运动系统疾病/运动障碍性疾病(锥体外系疾病)/帕金森病(震颤麻痹)/抗帕金森病药/拟多巴胺类药/左旋多巴的增效药/氨基酸脱羧酶抑制药/题目",
+    "医学/学科/临床/专科/神经/运动系统疾病/运动障碍性疾病(锥体外系疾病)/帕金森病(震颤麻痹)/抗帕金森病药/拟多巴胺类药/左旋多巴的增效药/神经-左旋多巴增效药.md",
+    "医学/学科/临床/专科/神经/运动系统疾病/运动障碍性疾病(锥体外系疾病)/帕金森病(震颤麻痹)/题目",
+    "260408 1110.md",
+    "Clippings/RWS/UPA UC/GPT/260406/未命名.md",
+    "Clippings/RWS/UPA UC/GPT/260406/模仿.md",
+    "Clippings/RWS/UPA UC/GPT/260406/GPT-Cover Letter.md",
     "Clippings/IBD Dual Therapy/IBD Matchmaking Rational Combination Therapy.md",
     "Clippings/IBD Dual Therapy/Efficacy and Safety of Dual Targeted Therapy for Partially or Non-responsive Inflammatory Bowel Disease.md",
-    "Clippings/RWS/260406/补充.md",
-    "Clippings/RWS/260406/GPT-Table2.md",
-    "Clippings/RWS/260406/GPT-Full matching.md",
-    "Clippings/RWS/260406/GPT-Discussion.md",
-    "Clippings/RWS/Decreased risk of treatment failure with vedolizumab and thiopurines combined compared with vedolizumab monotherapy in Crohn's disease.md",
-    "Clippings/RWS/260406/GPT-Patient Characteristics.md",
-    "Clippings/RWS/260406",
-    "Clippings/JCC/JCC.md",
-    "Clippings/RWS/替换匹配法/25 8.7 UST VDZ IFX CD/The effectiveness of second- and-third-line biologics in perianal Crohn’s disease.md",
-    "Clippings/PS/PSM/91 3.6/A Characterization of Optimal Designs for Observational Studies.md",
-    "Clippings/PS/PSM/WC/WC-PSM.md",
-    "Clippings/SixSunYatSen/Lang Lin/IDDF2025-ABS-0300 Infliximab versus glucocorticoids as first-line therapy for moderate-to-severe ulcerative colitis.md",
-    "Clippings/RWS/UPA UC/GPT/260330/GPT-260330-1.md",
-    "Clippings/R-Optimal Full Matching.md",
-    "Clippings/RWS/P325 A propensity score-weighted comparison of vedolizumab and adalimumab in Crohn’s disease.md",
-    "Clippings/RWS/Pair RR/24 6.7 FIL UPA/Real‐World Comparative Effectiveness and Safety of Filgotinib and Upadacitinib for Ulcerative Colitis.md",
-    "260406 0925.md",
-    "Obsidian.md",
-    "Clippings/RWS/ECM/Real-world effectiveness of initial antiviral regimens in children with chronic hepatitis B.md",
+    "Clippings/RWS/UPA UC/GPT/260406",
     "Clippings/RWS/ECM",
-    "260402 1650.md",
-    "Clippings/PS/PSM/26 3.9/Performance of propensity score methods in observational studies.md",
-    "Clippings/RWS/UPA UC/Real‐World Comparative Effectiveness and Safety of Upadacitinib plus Vedolizumab versus Upadacitinib Monotherapy During Induction in Moderate-to-Severe Ulcerative Colitis.md",
-    "260402 0035.md",
     "0Pictures/2603/260328/Pasted image 20260328002149.png",
     "医学/学科/临床/专科/精神/精神总论/精神检查",
     "医学/学科/临床/专科/精神/精神总论/标准化量表",
     "0Pictures/2603/260326/Pasted image 20260326145236.png",
     "0Pictures/2603/260328",
-    "0Pictures/2603/260326",
-    "Clippings/PS/PSM系列",
-    "Clippings/RWS/UPA UC/GPT/260330",
-    "Clippings/RWS/Pair/24 7.6 UPA TOF 前瞻",
     "0Pictures/2603/260326/Pasted image 20260326200606.png",
     "0Pictures/2603/260326/Pasted image 20260326200437.png",
     "0Pictures/2603/260326/Pasted image 20260326192912.png",
     "0Pictures/2603/260325/Pasted image 20260325161539.png",
     "0Pictures/2603/260324/Pasted image 20260324154518.png",
-    "0Pictures/2603/260325",
     "0Pictures/Pasted image 20260326145208.png",
     "0Pictures/2603/260325/Pasted image 20260325163605.png",
     "0Pictures/2603/260325/Pasted image 20260325163431.png",
