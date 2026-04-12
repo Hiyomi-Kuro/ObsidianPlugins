@@ -1,7 +1,7 @@
 {
   "accentColor": "#00bfff",
   "baseFontSizeAction": true,
-  "baseFontSize": 19,
+  "baseFontSize": 15,
   "cssTheme": "Minimal",
   "theme": "system",
   "showRibbon": true
